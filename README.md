@@ -26,7 +26,6 @@ This is a WIP, at the moment it scrapes character names and ratings into a JSON 
 - [Contributing](#contributing)
 - [License](#license)
 - [Questions](#questions)
-- [Deployment](#deployment)
 
 ## Installation Instructions:
 
