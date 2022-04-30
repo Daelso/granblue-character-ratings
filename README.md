@@ -3,8 +3,6 @@
 ![badge](https://img.shields.io/badge/license-MIT-darkred) [![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-Big credit to https://github.com/jakekelly44/tech-blog whose repo I used closely as a guide.
-
 
 ## Description:
 
