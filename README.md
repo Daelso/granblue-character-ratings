@@ -17,6 +17,8 @@ This is a WIP, at the moment it scrapes character names and ratings into a JSON 
     "name": "Zeta",
     "rating": "9.5"
   },
+  
+  Full data can be found the JSON file. 
 
 
 ## Table of Contents
@@ -31,7 +33,7 @@ This is a WIP, at the moment it scrapes character names and ratings into a JSON 
 
 This requires express.js, node.js, cheerio, nodemon and axios. Open the terminal and begin with ```npm init``` followed by ```npm i``` to hopefully automatically install all required dependencies.
 
-Run the program by opening your terminal in the main folder and typing ```npm start``` which requires nodemon (you should probably globally install it)
+Run the program by opening your terminal in the main folder and typing ```npm start``` which requires nodemon (you should probably globally install it). You may want to run ```nodemon --ignore 'db.json'``` to stop nodemon restarting constantly due to the writefile.
 
 ## Usage:
 
