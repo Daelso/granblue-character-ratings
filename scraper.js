@@ -1,9 +1,19 @@
-const PORT = 8000;
+const PORT = process.env.port || 8000;
+
+const jsonPort = process.env.jsonPort || 3000;
 
 const axios = require("axios");
 const cheerio = require("cheerio");
 const express = require("express");
 const fs = require("fs");
+const jsonServer = require('json-server');
+const server = jsonServer.create();
+const router = jsonServer.router('db.json');
+const middlewares = jsonServer.defaults();
+
+server.use(middlewares);
+server.use(router);
+server.listen(jsonPort)
 
 const scrapedURL = "https://gbf.wiki/Character_Tier_List/Gamewith/Ratings";
 
