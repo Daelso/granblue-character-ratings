@@ -23,15 +23,15 @@ function scrape() {
     try {
       const html = response.data;
       const package = cheerio.load(html);
-      let id = 0
+      let id = 0;
       package(
         "table.wikitable:nth-child(17) > tbody:nth-child(1) > tr",
         html
       ).each(function () {
         const rating = package(this).find("td:nth-child(4)").text();
         const imgTitle = package(this).find("a").attr("title");
-        
-        id += 1
+
+        id += 1;
         characters = {
           id: id,
           name: imgTitle,
@@ -40,7 +40,7 @@ function scrape() {
         characterarray.push(characters);
       });
 
-      let JSONarray = JSON.stringify({data:characterarray}, null, 2);
+      let JSONarray = JSON.stringify({ data: characterarray }, null, 2);
       fs.writeFile("db.json", JSONarray, function (err, result) {
         if (err) {
           console.log(err);
