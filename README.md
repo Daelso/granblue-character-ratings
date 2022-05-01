@@ -6,7 +6,7 @@
 
 ## Description:
 
-This is a WIP, at the moment it scrapes character names and ratings into a JSON object, the data is scraped from here: https://gbf.wiki/Character_Tier_List/Gamewith/Ratings -- A big thanks to the wiki contributers for keeping great up to date data. Currently you can access this in API form here: https://granblue-rating-api.herokuapp.com/character - If you need to regenerate or update the JSON, clone this and uncomment the scraper portion to regnerate the file.
+This is a WIP, at the moment it scrapes character names and ratings into a JSON object, the data is scraped from here: https://gbf.wiki/Character_Tier_List/Gamewith/Ratings -- A big thanks to the wiki contributers for keeping great up to date data. Currently you can access this in API form here: https://granblue-rating-api.herokuapp.com/characters - If you need to regenerate or update the JSON, clone this and uncomment the scraper portion to regnerate the file.
 
 ## Sample Data
 {
