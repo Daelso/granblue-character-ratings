@@ -1,4 +1,4 @@
-const port = process.env.port || 3000;
+const port = process.env.PORT || 3000;
 
 const jsonPort = process.env.jsonPort || 8000;
 
@@ -50,7 +50,7 @@ function scrape() {
         characterarray.push(characters);
       });
 
-      let JSONarray = JSON.stringify({ data: characterarray }, null, 2);
+      let JSONarray = JSON.stringify({ character: characterarray }, null, 2);
       fs.writeFile("db.json", JSONarray, function (err, result) {
         if (err) {
           console.log(err);

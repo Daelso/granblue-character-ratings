@@ -6,6 +6,9 @@
   "scripts": {
     "start": "nodemon scraper.js"
   },
+  "nodemonConfig": {
+    "ignore": ["db.json"]
+  },
   "keywords": [
     "scraper"
   ],
