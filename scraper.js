@@ -15,6 +15,10 @@ server.use(middlewares);
 server.use(router);
 server.listen(port)
 
+const io = require('socket.io')(server);
+io.on('connection', () => { /* … */ });
+server.listen(3000);
+
 const scrapedURL = "https://gbf.wiki/Character_Tier_List/Gamewith/Ratings";
 
 const app = express();
