@@ -1,18 +1,15 @@
 const port = process.env.PORT || 3000;
 
 const jsonPort = process.env.jsonPort || 8000;
-const jsonServer = require('json-server');
+
 const axios = require("axios");
 const cheerio = require("cheerio");
 const express = require("express");
 const fs = require("fs");
-
-const SocketIO = require('socket.io');
+const jsonServer = require('json-server');
 const server = jsonServer.create();
 const router = jsonServer.router('db.json');
 const middlewares = jsonServer.defaults();
-
-
 
 server.use(middlewares);
 server.use(router);
@@ -20,53 +17,54 @@ server.listen(port)
 
 
 
-const scrapedURL = "https://gbf.wiki/Character_Tier_List/Gamewith/Ratings";
+// Uncomment this and let it run locally to populate the json, since our API runs off Heroku which really doesn't like multiport apps, this needs to be commented out.
 
-const app = express();
 
-const expressServer = app.listen(jsonPort, () => console.log(`server running on PORT ${jsonPort}`));
+// const scrapedURL = "https://gbf.wiki/Character_Tier_List/Gamewith/Ratings";
 
-const io = SocketIO(expressServer);
+// const app = express();
 
-function scrape() {
-  let characters = {
-    name: "",
-    rating: "",
-  };
+// app.listen(jsonPort, () => console.log(`server running on PORT ${jsonPort}`));
 
-  let characterarray = [];
+// function scrape() {
+//   let characters = {
+//     name: "",
+//     rating: "",
+//   };
 
-  axios(scrapedURL).then((response) => {
-    try {
-      const html = response.data;
-      const package = cheerio.load(html);
-      let id = 0;
-      package(
-        "table.wikitable:nth-child(17) > tbody:nth-child(1) > tr",
-        html
-      ).each(function () {
-        const rating = package(this).find("td:nth-child(4)").text();
-        const imgTitle = package(this).find("a").attr("title");
+//   let characterarray = [];
 
-        id += 1;
-        characters = {
-          id: id,
-          name: imgTitle,
-          rating: rating,
-        };
-        characterarray.push(characters);
-      });
+//   axios(scrapedURL).then((response) => {
+//     try {
+//       const html = response.data;
+//       const package = cheerio.load(html);
+//       let id = 0;
+//       package(
+//         "table.wikitable:nth-child(17) > tbody:nth-child(1) > tr",
+//         html
+//       ).each(function () {
+//         const rating = package(this).find("td:nth-child(4)").text();
+//         const imgTitle = package(this).find("a").attr("title");
 
-      let JSONarray = JSON.stringify({ character: characterarray }, null, 2);
-      fs.writeFile("db.json", JSONarray, function (err, result) {
-        if (err) {
-          console.log(err);
-        }
-      });
-    } catch (err) {
-      console.log(err);
-    }
-  });
-}
+//         id += 1;
+//         characters = {
+//           id: id,
+//           name: imgTitle,
+//           rating: rating,
+//         };
+//         characterarray.push(characters);
+//       });
 
-scrape();
+//       let JSONarray = JSON.stringify({ character: characterarray }, null, 2);
+//       fs.writeFile("db.json", JSONarray, function (err, result) {
+//         if (err) {
+//           console.log(err);
+//         }
+//       });
+//     } catch (err) {
+//       console.log(err);
+//     }
+//   });
+// }
+
+// scrape();
