@@ -9,15 +9,21 @@
 This is a WIP, at the moment it scrapes character names and ratings into a JSON object, the data is scraped from here: https://gbf.wiki/Character_Tier_List/Gamewith/Ratings -- A big thanks to the wiki contributers for keeping great up to date data.
 
 ## Sample Data
- {
-    "name": "Zehek (SSR)",
-    "rating": "9.4"
-  },
-  {
-    "name": "Zeta",
-    "rating": "9.5"
-  },
-  
+{
+      "id": 2,
+      "name": "Abby",
+      "rating": "9.2"
+    },
+    {
+      "id": 3,
+      "name": "Abby (Promo)",
+      "rating": "7.0"
+    },
+    {
+      "id": 4,
+      "name": "Agielba",
+      "rating": "8.5"
+    },
   Full data can be found the JSON file. 
 
 
