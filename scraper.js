@@ -1,6 +1,6 @@
-const PORT = process.env.port || 8000;
+const port = process.env.port || 3000;
 
-const jsonPort = process.env.jsonPort || 3000;
+const jsonPort = process.env.jsonPort || 8000;
 
 const axios = require("axios");
 const cheerio = require("cheerio");
@@ -13,13 +13,13 @@ const middlewares = jsonServer.defaults();
 
 server.use(middlewares);
 server.use(router);
-server.listen(jsonPort)
+server.listen(port)
 
 const scrapedURL = "https://gbf.wiki/Character_Tier_List/Gamewith/Ratings";
 
 const app = express();
 
-app.listen(PORT, () => console.log(`server running on PORT ${PORT}`));
+app.listen(jsonPort, () => console.log(`server running on PORT ${jsonPort}`));
 
 function scrape() {
   let characters = {
