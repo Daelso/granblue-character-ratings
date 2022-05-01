@@ -2,9 +2,9 @@
   "name": "scraper",
   "version": "1.0.0",
   "description": "a web scraper for granblue",
-  "main": "index.js",
+  "main": "scraper.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "nodemon scraper.js"
   },
   "keywords": [
     "scraper"
@@ -14,6 +14,8 @@
   "dependencies": {
     "axios": "^0.27.2",
     "cheerio": "^1.0.0-rc.10",
-    "express": "^4.18.1"
+    "express": "^4.18.1",
+    "json-server": "^0.17.0",
+    "nodemon": "^2.0.16"
   }
 }
