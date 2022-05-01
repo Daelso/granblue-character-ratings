@@ -4,7 +4,7 @@
   "description": "a web scraper for granblue",
   "main": "scraper.js",
   "scripts": {
-    "start": "nodemon scraper.js"
+    
   },
   "nodemonConfig": {
     "ignore": ["db.json"]
