@@ -24,7 +24,7 @@ app.get("/characters", (req, res) => {
       let characterarray = [];
 
       package(
-        "table.wikitable:nth-child(17) > tbody:nth-child(1) > tr:nth-child(2n)",
+        "table.wikitable:nth-child(17) > tbody:nth-child(1) > tr:not(:first-child)",
         html
       ).each(function () {
 
@@ -71,7 +71,9 @@ app.get("/characters/:selection", (req, res) => {
       
       const test = (text) => options.filter(({ name }) => name.includes(text));
       
-      const result = test('Abby');
+      const result = test(hero);
+
+      console.log(result)
       
       
 
