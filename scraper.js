@@ -72,8 +72,6 @@ app.get("/characters/:selection", (req, res) => {
       
       const result = test(hero[0].toUpperCase() + hero.substring(1));
       
-      console.log(result.length)
-      
 
         if(result.length < 1){
           res.json(`No results found for ${hero} - CASE SENSITIVE`)
