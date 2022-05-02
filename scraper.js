@@ -59,7 +59,7 @@ app.get("/characters", (req, res) => {
   });
 });
 
-app.get("/character/:selection", (req, res) => {
+app.get("/characters/:selection", (req, res) => {
   axios.get('https://granblue-rating-api.herokuapp.com/characters')
     .then((response) => {
         const hero = req.params.selection
