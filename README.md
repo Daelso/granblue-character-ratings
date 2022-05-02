@@ -12,6 +12,8 @@ RapidAPI Link: https://rapidapi.com/daelso/api/granblue-fantasy-tier-list
 
 ## End Points:
 https://granblue-rating-api.herokuapp.com/characters - Get all characters and ratings
+
+
 https://granblue-rating-api.herokuapp.com/characters/Zeta - Will return all entries for a specific character, first letter capitalization does not matter, will automatically be converted i.e zeta => Zeta
 
 
