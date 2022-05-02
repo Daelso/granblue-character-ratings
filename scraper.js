@@ -42,9 +42,9 @@ app.get("/characters", (req, res) => {
 
       });
 
-      let JSONarray = JSON.stringify({ character: characterarray }, null, 2);
+      let JSONarray = JSON.stringify( {character:characterarray} , null, 2);
 
-      res.json(characterarray) //returns it in the browser
+      res.json({character:characterarray}) //returns it in the browser
 
       //Populates the file for us
       fs.writeFile("db.json", JSONarray, function (err, result) {
@@ -58,6 +58,18 @@ app.get("/characters", (req, res) => {
     }
   });
 });
+
+app.get("/character/:selection", (req, res) => {
+  axios.get('https://granblue-rating-api.herokuapp.com/characters')
+    .then((response) => {
+        const hero = req.params.selection
+        const characters = response.data
+        const search = characters.find(character => character.name == hero);
+
+        res.json(search)
+    })
+});
+ 
 
 
 app.listen(port, () => console.log(`server running on PORT ${port}`));
