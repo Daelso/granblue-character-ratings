@@ -64,7 +64,7 @@ app.get("/character/:selection", (req, res) => {
     .then((response) => {
         const hero = req.params.selection
         const characters = response.data
-        const search = characters.find(character => character.name == hero);
+        const search = characters.character.find(character => character.name == hero);
 
         res.json(search)
     })
