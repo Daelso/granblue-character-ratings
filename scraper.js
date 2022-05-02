@@ -24,7 +24,7 @@ app.get("/characters", (req, res) => {
       let characterarray = [];
 
       package(
-        "table.wikitable:nth-child(17) > tbody:nth-child(1) > tr",
+        "table.wikitable:nth-child(17) > tbody:nth-child(1) > tr:nth-child(2n)",
         html
       ).each(function () {
 
@@ -60,12 +60,20 @@ app.get("/characters", (req, res) => {
 });
 
 app.get("/characters/:selection", (req, res) => {
+  console.log
   axios.get('https://granblue-rating-api.herokuapp.com/characters')
     .then((response) => {
         const hero = req.params.selection
         const characters = response.data
         const search = characters.character.find(character => character.name == hero);
-        
+
+        const options = characters.character
+      
+      const test = (text) => options.filter(({ name }) => name.includes(text));
+      
+      const result = test('Abby');
+      
+      
 
         if(!search){
           res.json(`No results found for ${hero} - CASE SENSITIVE`)
