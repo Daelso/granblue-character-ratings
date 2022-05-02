@@ -76,7 +76,7 @@ app.get("/characters/:selection", (req, res) => {
       console.log(result.length)
       
 
-        if(result.length <= 1){
+        if(result.length < 1){
           res.json(`No results found for ${hero} - CASE SENSITIVE`)
         }
         else{
