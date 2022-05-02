@@ -65,8 +65,14 @@ app.get("/characters/:selection", (req, res) => {
         const hero = req.params.selection
         const characters = response.data
         const search = characters.character.find(character => character.name == hero);
+        
 
-        res.json(search)
+        if(!search){
+          res.json(`No results found for ${hero} - CASE SENSITIVE`)
+        }
+        else{
+          res.json(search)
+        }
     })
 });
  
