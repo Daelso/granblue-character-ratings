@@ -71,7 +71,7 @@ app.get("/characters/:selection", (req, res) => {
       
       const test = (text) => options.filter(({ name }) => name.includes(text));
       
-      const result = test(hero);
+      const result = test(hero[0].toUpperCase() + hero.substring(1));
       
       console.log(result.length)
       
