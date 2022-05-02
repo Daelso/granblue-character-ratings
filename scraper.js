@@ -60,7 +60,6 @@ app.get("/characters", (req, res) => {
 });
 
 app.get("/characters/:selection", (req, res) => {
-  console.log
   axios.get('https://granblue-rating-api.herokuapp.com/characters')
     .then((response) => {
         const hero = req.params.selection
