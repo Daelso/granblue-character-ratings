@@ -1,3698 +1,3696 @@
-{
-  "character": [
-    {
-      "id": 1,
-      "rating": ""
-    },
-    {
-      "id": 2,
-      "name": "Abby",
-      "rating": "9.2"
-    },
-    {
-      "id": 3,
-      "name": "Abby (Promo)",
-      "rating": "7.0"
-    },
-    {
-      "id": 4,
-      "name": "Agielba",
-      "rating": "8.5"
-    },
-    {
-      "id": 5,
-      "name": "Aglovale",
-      "rating": "9.1"
-    },
-    {
-      "id": 6,
-      "name": "Aglovale (Valentine)",
-      "rating": "9.9"
-    },
-    {
-      "id": 7,
-      "name": "Airi Totoki",
-      "rating": "7.0"
-    },
-    {
-      "id": 8,
-      "name": "Alanaan",
-      "rating": ""
-    },
-    {
-      "id": 9,
-      "name": "Albert",
-      "rating": "9.3"
-    },
-    {
-      "id": 10,
-      "name": "Albert (Dark)",
-      "rating": "9.5"
-    },
-    {
-      "id": 11,
-      "name": "Albert (Event)",
-      "rating": "7.5"
-    },
-    {
-      "id": 12,
-      "name": "Albert (Summer)",
-      "rating": "9.2"
-    },
-    {
-      "id": 13,
-      "name": "Alec",
-      "rating": "7.0"
-    },
-    {
-      "id": 14,
-      "name": "Aletheia",
-      "rating": "9.0"
-    },
-    {
-      "id": 15,
-      "name": "Alexiel",
-      "rating": "9.4"
-    },
-    {
-      "id": 16,
-      "name": "Alexiel (Summer)",
-      "rating": "9.7"
-    },
-    {
-      "id": 17,
-      "name": "Alistair",
-      "rating": "4.5"
-    },
-    {
-      "id": 18,
-      "name": "Aliza",
-      "rating": "8.5"
-    },
-    {
-      "id": 19,
-      "name": "Aliza (Event)",
-      "rating": "7.0"
-    },
-    {
-      "id": 20,
-      "name": "Aliza (Water)",
-      "rating": "7.5"
-    },
-    {
-      "id": 21,
-      "name": "Almeida",
-      "rating": "7.0"
-    },
-    {
-      "id": 22,
-      "name": "Almeida (Summer)",
-      "rating": "7.5"
-    },
-    {
-      "id": 23,
-      "name": "Altair",
-      "rating": "9.1"
-    },
-    {
-      "id": 24,
-      "name": "Altair (Holiday)",
-      "rating": "9.3"
-    },
-    {
-      "id": 25,
-      "name": "Amira",
-      "rating": "9.0"
-    },
-    {
-      "id": 26,
-      "name": "Amira (Promo)",
-      "rating": "7.0"
-    },
-    {
-      "id": 27,
-      "name": "Amira (Summer)",
-      "rating": "9.5"
-    },
-    {
-      "id": 28,
-      "name": "Anastasia",
-      "rating": "7.0"
-    },
-    {
-      "id": 29,
-      "name": "Andira",
-      "rating": "9.8"
-    },
-    {
-      "id": 30,
-      "name": "Andira (Event)",
-      "rating": "7.0"
-    },
-    {
-      "id": 31,
-      "name": "Andira (Summer)",
-      "rating": "9.6"
-    },
-    {
-      "id": 32,
-      "name": "Ange",
-      "rating": "7.0"
-    },
-    {
-      "id": 33,
-      "name": "Ange (Halloween)",
-      "rating": "6.0"
-    },
-    {
-      "id": 34,
-      "name": "Anila",
-      "rating": "9.6"
-    },
-    {
-      "id": 35,
-      "name": "Anila (Event)",
-      "rating": "6.5"
-    },
-    {
-      "id": 36,
-      "name": "Anila (Summer)",
-      "rating": "9.6"
-    },
-    {
-      "id": 37,
-      "name": "Anna",
-      "rating": "4.5"
-    },
-    {
-      "id": 38,
-      "name": "Anna (SR)",
-      "rating": "6.0"
-    },
-    {
-      "id": 39,
-      "name": "Anna (Summer)",
-      "rating": "4.0"
-    },
-    {
-      "id": 40,
-      "name": "Anne",
-      "rating": "8.5"
-    },
-    {
-      "id": 41,
-      "name": "Anre",
-      "rating": ""
-    },
-    {
-      "id": 42,
-      "name": "Anthuria",
-      "rating": "9.5"
-    },
-    {
-      "id": 43,
-      "name": "Anthuria (Holiday)",
-      "rating": "9.8"
-    },
-    {
-      "id": 44,
-      "name": "Anthuria (Yukata)",
-      "rating": "9.5"
-    },
-    {
-      "id": 45,
-      "name": "Anzu Futaba",
-      "rating": "7.0"
-    },
-    {
-      "id": 46,
-      "name": "Aoidos",
-      "rating": "9.3"
-    },
-    {
-      "id": 47,
-      "name": "Aqours First-Years",
-      "rating": "9.0"
-    },
-    {
-      "id": 48,
-      "name": "Aqours Second-Years",
-      "rating": "9.0"
-    },
-    {
-      "id": 49,
-      "name": "Aqours Third-Years",
-      "rating": "9.0"
-    },
-    {
-      "id": 50,
-      "name": "Arisa",
-      "rating": "7.0"
-    },
-    {
-      "id": 51,
-      "name": "Arriet",
-      "rating": "9.0"
-    },
-    {
-      "id": 52,
-      "name": "Arthur",
-      "rating": "9.4"
-    },
-    {
-      "id": 53,
-      "name": "Arthur and Mordred",
-      "rating": "7.0"
-    },
-    {
-      "id": 54,
-      "name": "Arthur (Event)",
-      "rating": "7.0"
-    },
-    {
-      "id": 55,
-      "name": "Arulumaya",
-      "rating": "9.1"
-    },
-    {
-      "id": 56,
-      "name": "Arulumaya (Holiday)",
-      "rating": "9.0"
-    },
-    {
-      "id": 57,
-      "name": "Arulumaya (Light)",
-      "rating": "9.3"
-    },
-    {
-      "id": 58,
-      "name": "Arulumaya (Yukata)",
-      "rating": "8.0"
-    },
-    {
-      "id": 59,
-      "name": "Arusha",
-      "rating": "7.5"
-    },
-    {
-      "id": 60,
-      "name": "Aster",
-      "rating": "7.5"
-    },
-    {
-      "id": 61,
-      "name": "Aster (Event)",
-      "rating": "6.0"
-    },
-    {
-      "id": 62,
-      "name": "Athena",
-      "rating": "9.7"
-    },
-    {
-      "id": 63,
-      "name": "Augusta",
-      "rating": "6.5"
-    },
-    {
-      "id": 64,
-      "name": "Ayer",
-      "rating": "9.0"
-    },
-    {
-      "id": 65,
-      "name": "Ayer (Summer)",
-      "rating": "8.0"
-    },
-    {
-      "id": 66,
-      "name": "Azazel",
-      "rating": "9.2"
-    },
-    {
-      "id": 67,
-      "name": "Azazel (Halloween)",
-      "rating": "9.5"
-    },
-    {
-      "id": 68,
-      "name": "Azusa",
-      "rating": "9.5"
-    },
-    {
-      "id": 69,
-      "name": "Baal",
-      "rating": "9.3"
-    },
-    {
-      "id": 70,
-      "name": "Bakura",
-      "rating": "4.5"
-    },
-    {
-      "id": 71,
-      "name": "Balurga",
-      "rating": "5.5"
-    },
-    {
-      "id": 72,
-      "name": "Baotorda",
-      "rating": "7.0"
-    },
-    {
-      "id": 73,
-      "name": "Baotorda (SSR)",
-      "rating": "9.5"
-    },
-    {
-      "id": 74,
-      "name": "Barawa",
-      "rating": "6.0"
-    },
-    {
-      "id": 75,
-      "name": "Barawa (Event)",
-      "rating": "7.0"
-    },
-    {
-      "id": 76,
-      "name": "Barawa (SR)",
-      "rating": "7.0"
-    },
-    {
-      "id": 77,
-      "name": "Beatrix",
-      "rating": "9.0"
-    },
-    {
-      "id": 78,
-      "name": "Beatrix (Earth)",
-      "rating": "9.4"
-    },
-    {
-      "id": 79,
-      "name": "Beatrix (Halloween)",
-      "rating": "8.0"
-    },
-    {
-      "id": 80,
-      "name": "Beatrix (SR)",
-      "rating": "7.5"
-    },
-    {
-      "id": 81,
-      "name": "Beatrix (Summer)",
-      "rating": "9.5"
-    },
-    {
-      "id": 82,
-      "name": "Benjamin",
-      "rating": "9.1"
-    },
-    {
-      "id": 83,
-      "name": "Black Knight",
-      "rating": "9.6"
-    },
-    {
-      "id": 84,
-      "name": "Black Knight and Orchis",
-      "rating": "9.0"
-    },
-    {
-      "id": 85,
-      "name": "Blazing Teacher Elmott",
-      "rating": "6.5"
-    },
-    {
-      "id": 86,
-      "name": "Bobobo-bo Bo-bobo",
-      "rating": "9.2"
-    },
-    {
-      "id": 87,
-      "name": "Bridgette",
-      "rating": "5.5"
-    },
-    {
-      "id": 88,
-      "name": "Bridgette and Cordelia",
-      "rating": "7.5"
-    },
-    {
-      "id": 89,
-      "name": "Cagliostro",
-      "rating": "9.3"
-    },
-    {
-      "id": 90,
-      "name": "Cagliostro (Dark)",
-      "rating": "9.2"
-    },
-    {
-      "id": 91,
-      "name": "Cagliostro (Event)",
-      "rating": "7.0"
-    },
-    {
-      "id": 92,
-      "name": "Cagliostro (Grand)",
-      "rating": "9.7"
-    },
-    {
-      "id": 93,
-      "name": "Cagliostro (Halloween)",
-      "rating": "9.1"
-    },
-    {
-      "id": 94,
-      "name": "Cagliostro (Summer)",
-      "rating": "9.7"
-    },
-    {
-      "id": 95,
-      "name": "Cailana",
-      "rating": "6.0"
-    },
-    {
-      "id": 96,
-      "name": "Cailana (SR)",
-      "rating": "7.5"
-    },
-    {
-      "id": 97,
-      "name": "Caim",
-      "rating": ""
-    },
-    {
-      "id": 98,
-      "name": "Cain",
-      "rating": "7.0"
-    },
-    {
-      "id": 99,
-      "name": "Cain (Grand)",
-      "rating": "9.3"
-    },
-    {
-      "id": 100,
-      "name": "Camieux",
-      "rating": "4.5"
-    },
-    {
-      "id": 101,
-      "name": "Camieux (Earth)",
-      "rating": "5.0"
-    },
-    {
-      "id": 102,
-      "name": "Camieux (Summer)",
-      "rating": "7.0"
-    },
-    {
-      "id": 103,
-      "name": "Carmelina",
-      "rating": "9.0"
-    },
-    {
-      "id": 104,
-      "name": "Carmelina (SR)",
-      "rating": "6.5"
-    },
-    {
-      "id": 105,
-      "name": "Carren",
-      "rating": "7.0"
-    },
-    {
-      "id": 106,
-      "name": "Carren (Event)",
-      "rating": "7.0"
-    },
-    {
-      "id": 107,
-      "name": "Cassius (Event)",
-      "rating": "7.0"
-    },
-    {
-      "id": 108,
-      "name": "Cassius (Event SSR)",
-      "rating": "9.1"
-    },
-    {
-      "id": 109,
-      "name": "Cassius (Valentine)",
-      "rating": "9.6"
-    },
-    {
-      "id": 110,
-      "name": "Cassius (Yukata)",
-      "rating": "7.0"
-    },
-    {
-      "id": 111,
-      "name": "Catherine",
-      "rating": "8.5"
-    },
-    {
-      "id": 112,
-      "name": "Catherine (SR)",
-      "rating": "7.0"
-    },
-    {
-      "id": 113,
-      "name": "Catura",
-      "rating": "9.6"
-    },
-    {
-      "id": 114,
-      "name": "Catura (Event)",
-      "rating": "0"
-    },
-    {
-      "id": 115,
-      "name": "Cecile",
-      "rating": "6.5"
-    },
-    {
-      "id": 116,
-      "name": "Cerberus",
-      "rating": "9.5"
-    },
-    {
-      "id": 117,
-      "name": "Ceylan (Event)",
-      "rating": "7.0"
-    },
-    {
-      "id": 118,
-      "name": "Charioce XVII",
-      "rating": "8.5"
-    },
-    {
-      "id": 119,
-      "name": "Charlotta",
-      "rating": "9.0"
-    },
-    {
-      "id": 120,
-      "name": "Charlotta (Event)",
-      "rating": "7.5"
-    },
-    {
-      "id": 121,
-      "name": "Charlotta (Halloween)",
-      "rating": "9.3"
-    },
-    {
-      "id": 122,
-      "name": "Charlotta (Light)",
-      "rating": "9.3"
-    },
-    {
-      "id": 123,
-      "name": "Charlotta (Summer)",
-      "rating": "7.5"
-    },
-    {
-      "id": 124,
-      "name": "Chat Noir",
-      "rating": "8.5"
-    },
-    {
-      "id": 125,
-      "name": "Chloe",
-      "rating": "5.5"
-    },
-    {
-      "id": 126,
-      "name": "Chloe (Summer)",
-      "rating": "7.0"
-    },
-    {
-      "id": 127,
-      "name": "Christina",
-      "rating": "8.5"
-    },
-    {
-      "id": 128,
-      "name": "Chun-Li",
-      "rating": "7.0"
-    },
-    {
-      "id": 129,
-      "name": "Cidala",
-      "rating": "9.7"
-    },
-    {
-      "id": 130,
-      "name": "Clarisse",
-      "rating": "9.0"
-    },
-    {
-      "id": 131,
-      "name": "Clarisse (Holiday)",
-      "rating": "8.5"
-    },
-    {
-      "id": 132,
-      "name": "Clarisse (Light)",
-      "rating": "9.2"
-    },
-    {
-      "id": 133,
-      "name": "Clarisse (Valentine)",
-      "rating": "9.6"
-    },
-    {
-      "id": 134,
-      "name": "Claudia",
-      "rating": "6.5"
-    },
-    {
-      "id": 135,
-      "name": "Colossus",
-      "rating": "9.1"
-    },
-    {
-      "id": 136,
-      "name": "Conan Edogawa",
-      "rating": "8.0"
-    },
-    {
-      "id": 137,
-      "name": "Cordelia",
-      "rating": "5.5"
-    },
-    {
-      "id": 138,
-      "name": "Cucouroux",
-      "rating": "7.0"
-    },
-    {
-      "id": 139,
-      "name": "Cucouroux (Halloween)",
-      "rating": "9.6"
-    },
-    {
-      "id": 140,
-      "name": "Cucouroux (SSR)",
-      "rating": "8.5"
-    },
-    {
-      "id": 141,
-      "name": "Cupitan",
-      "rating": "9.6"
-    },
-    {
-      "id": 142,
-      "name": "Cure Black and Cure White",
-      "rating": "8.5"
-    },
-    {
-      "id": 143,
-      "name": "Daetta",
-      "rating": "5.0"
-    },
-    {
-      "id": 144,
-      "name": "Daetta (SR)",
-      "rating": "6.5"
-    },
-    {
-      "id": 145,
-      "name": "Dante",
-      "rating": "6.5"
-    },
-    {
-      "id": 146,
-      "name": "Dante and Freiheit",
-      "rating": "9.5"
-    },
-    {
-      "id": 147,
-      "name": "Dante (SR)",
-      "rating": "8.0"
-    },
-    {
-      "id": 148,
-      "name": "Danua",
-      "rating": "7.5"
-    },
-    {
-      "id": 149,
-      "name": "Danua (Halloween)",
-      "rating": "8.5"
-    },
-    {
-      "id": 150,
-      "name": "Danua (SSR)",
-      "rating": "9.0"
-    },
-    {
-      "id": 151,
-      "name": "Danua (Summer)",
-      "rating": "8.5"
-    },
-    {
-      "id": 152,
-      "name": "De La Fille",
-      "rating": "9.5"
-    },
-    {
-      "id": 153,
-      "name": "De La Fille (Earth)",
-      "rating": "9.0"
-    },
-    {
-      "id": 154,
-      "name": "De La Fille (Summer)",
-      "rating": "8.5"
-    },
-    {
-      "id": 155,
-      "name": "Deliford",
-      "rating": "4.0"
-    },
-    {
-      "id": 156,
-      "name": "Deliford (SR)",
-      "rating": "7.5"
-    },
-    {
-      "id": 157,
-      "name": "Diantha",
-      "rating": "9.2"
-    },
-    {
-      "id": 158,
-      "name": "Diantha (Promo)",
-      "rating": "7.0"
-    },
-    {
-      "id": 159,
-      "name": "Diantha (Summer)",
-      "rating": "9.1"
-    },
-    {
-      "id": 160,
-      "name": "Doraemon",
-      "rating": "9.2"
-    },
-    {
-      "id": 161,
-      "name": "Dorothy",
-      "rating": "5.5"
-    },
-    {
-      "id": 162,
-      "name": "Dorothy and Claudia",
-      "rating": "9.1"
-    },
-    {
-      "id": 163,
-      "name": "Drang",
-      "rating": "9.0"
-    },
-    {
-      "id": 164,
-      "name": "Drang (Grand)",
-      "rating": "9.4"
-    },
-    {
-      "id": 165,
-      "name": "Drusilla",
-      "rating": "5.0"
-    },
-    {
-      "id": 166,
-      "name": "Eahta",
-      "rating": ""
-    },
-    {
-      "id": 167,
-      "name": "Ejaeli",
-      "rating": "8.0"
-    },
-    {
-      "id": 168,
-      "name": "Elize Lutus",
-      "rating": "8.0"
-    },
-    {
-      "id": 169,
-      "name": "Elmelaura",
-      "rating": "4.0"
-    },
-    {
-      "id": 170,
-      "name": "Elmott",
-      "rating": "5.5"
-    },
-    {
-      "id": 171,
-      "name": "Elmott (SSR)",
-      "rating": "9.7"
-    },
-    {
-      "id": 172,
-      "name": "Elmott (Summer)",
-      "rating": "6.5"
-    },
-    {
-      "id": 173,
-      "name": "Elta",
-      "rating": "6.0"
-    },
-    {
-      "id": 174,
-      "name": "Elta (Light)",
-      "rating": "6.5"
-    },
-    {
-      "id": 175,
-      "name": "Enyo",
-      "rating": "9.4"
-    },
-    {
-      "id": 176,
-      "name": "Erica Fontaine",
-      "rating": "7.5"
-    },
-    {
-      "id": 177,
-      "name": "Erin",
-      "rating": "7.0"
-    },
-    {
-      "id": 178,
-      "name": "Eso",
-      "rating": "4.0"
-    },
-    {
-      "id": 179,
-      "name": "Eso (SR)",
-      "rating": "6.5"
-    },
-    {
-      "id": 180,
-      "name": "Estarriola",
-      "rating": ""
-    },
-    {
-      "id": 181,
-      "name": "Eugen",
-      "rating": "7.0"
-    },
-    {
-      "id": 182,
-      "name": "Eugen (Grand)",
-      "rating": "9.4"
-    },
-    {
-      "id": 183,
-      "name": "Eugen (Summer)",
-      "rating": "6.5"
-    },
-    {
-      "id": 184,
-      "name": "Europa",
-      "rating": "9.4"
-    },
-    {
-      "id": 185,
-      "name": "Europa (Summer)",
-      "rating": "9.1"
-    },
-    {
-      "id": 186,
-      "name": "Eustace",
-      "rating": "9.0"
-    },
-    {
-      "id": 187,
-      "name": "Eustace (Dark)",
-      "rating": "9.4"
-    },
-    {
-      "id": 188,
-      "name": "Eustace (Halloween)",
-      "rating": "9.1"
-    },
-    {
-      "id": 189,
-      "name": "Ewiyar",
-      "rating": "9.0"
-    },
-    {
-      "id": 190,
-      "name": "Ezecrain",
-      "rating": "4.5"
-    },
-    {
-      "id": 191,
-      "name": "Ezecrain (Event)",
-      "rating": "7.0"
-    },
-    {
-      "id": 192,
-      "name": "Farrah",
-      "rating": "4.0"
-    },
-    {
-      "id": 193,
-      "name": "Farrah and Juri",
-      "rating": "9.1"
-    },
-    {
-      "id": 194,
-      "name": "Farrah (Event)",
-      "rating": "6.5"
-    },
-    {
-      "id": 195,
-      "name": "Farrah (SR)",
-      "rating": "6.0"
-    },
-    {
-      "id": 196,
-      "name": "Farrah (Summer)",
-      "rating": "7.0"
-    },
-    {
-      "id": 197,
-      "name": "Feather",
-      "rating": "4.5"
-    },
-    {
-      "id": 198,
-      "name": "Feather (Halloween)",
-      "rating": "8.0"
-    },
-    {
-      "id": 199,
-      "name": "Feather (SR)",
-      "rating": "8.0"
-    },
-    {
-      "id": 200,
-      "name": "Feather (SSR)",
-      "rating": "9.4"
-    },
-    {
-      "id": 201,
-      "name": "Fediel",
-      "rating": "10"
-    },
-    {
-      "id": 202,
-      "name": "Feena",
-      "rating": "8.5"
-    },
-    {
-      "id": 203,
-      "name": "Feena (Event)",
-      "rating": "7.0"
-    },
-    {
-      "id": 204,
-      "name": "Feena (Holiday)",
-      "rating": "7.5"
-    },
-    {
-      "id": 205,
-      "name": "Feower",
-      "rating": ""
-    },
-    {
-      "id": 206,
-      "name": "Ferry",
-      "rating": "6.0"
-    },
-    {
-      "id": 207,
-      "name": "Ferry (Grand)",
-      "rating": "9.3"
-    },
-    {
-      "id": 208,
-      "name": "Ferry (Halloween)",
-      "rating": "6.5"
-    },
-    {
-      "id": 209,
-      "name": "Ferry (SSR)",
-      "rating": "9.5"
-    },
-    {
-      "id": 210,
-      "name": "Ferry (Summer)",
-      "rating": "8.0"
-    },
-    {
-      "id": 211,
-      "name": "Fif",
-      "rating": ""
-    },
-    {
-      "id": 212,
-      "name": "Filene",
-      "rating": "9.2"
-    },
-    {
-      "id": 213,
-      "name": "Fiorito",
-      "rating": "9.7"
-    },
-    {
-      "id": 214,
-      "name": "Flesselles",
-      "rating": "5.0"
-    },
-    {
-      "id": 215,
-      "name": "Florence",
-      "rating": "9.3"
-    },
-    {
-      "id": 216,
-      "name": "Forte",
-      "rating": "8.5"
-    },
-    {
-      "id": 217,
-      "name": "Fraux",
-      "rating": ""
-    },
-    {
-      "id": 218,
-      "name": "Freezie",
-      "rating": "9.4"
-    },
-    {
-      "id": 219,
-      "name": "Freyr",
-      "rating": "9.2"
-    },
-    {
-      "id": 220,
-      "name": "Friday (Summer)",
-      "rating": "8.3"
-    },
-    {
-      "id": 221,
-      "name": "Gachapin",
-      "rating": "8.5"
-    },
-    {
-      "id": 222,
-      "name": "Galadar",
-      "rating": "5.0"
-    },
-    {
-      "id": 223,
-      "name": "Galadar (SR)",
-      "rating": "7.5"
-    },
-    {
-      "id": 224,
-      "name": "Garma",
-      "rating": "4.5"
-    },
-    {
-      "id": 225,
-      "name": "Gawain",
-      "rating": "9.2"
-    },
-    {
-      "id": 226,
-      "name": "Gawain (Light)",
-      "rating": "9.4"
-    },
-    {
-      "id": 227,
-      "name": "Gayne",
-      "rating": "8.0"
-    },
-    {
-      "id": 228,
-      "name": "Geisenborger",
-      "rating": ""
-    },
-    {
-      "id": 229,
-      "name": "Gemini Sunrise",
-      "rating": "7.5"
-    },
-    {
-      "id": 230,
-      "name": "Ghandagoza",
-      "rating": "9.0"
-    },
-    {
-      "id": 231,
-      "name": "Ghandagoza (Summer)",
-      "rating": "7.0"
-    },
-    {
-      "id": 232,
-      "name": "Goblin Mage",
-      "rating": "7.0"
-    },
-    {
-      "id": 233,
-      "name": "Golden Knight",
-      "rating": "9.6"
-    },
-    {
-      "id": 234,
-      "name": "Grea",
-      "rating": "9.1"
-    },
-    {
-      "id": 235,
-      "name": "Grea (Event)",
-      "rating": "7.5"
-    },
-    {
-      "id": 236,
-      "name": "Grea (Light)",
-      "rating": "9.4"
-    },
-    {
-      "id": 237,
-      "name": "Grea (Summer)",
-      "rating": "9.4"
-    },
-    {
-      "id": 238,
-      "name": "Grimnir",
-      "rating": "9.5"
-    },
-    {
-      "id": 239,
-      "name": "Grimnir (Valentine)",
-      "rating": "9.9"
-    },
-    {
-      "id": 240,
-      "name": "Haaselia",
-      "rating": ""
-    },
-    {
-      "id": 241,
-      "name": "Hallessena",
-      "rating": "9.2"
-    },
-    {
-      "id": 242,
-      "name": "Hallessena (Halloween)",
-      "rating": "9.5"
-    },
-    {
-      "id": 243,
-      "name": "Halluel and Malluel (Summer)",
-      "rating": "9.6"
-    },
-    {
-      "id": 244,
-      "name": "Haohmaru",
-      "rating": "6.0"
-    },
-    {
-      "id": 245,
-      "name": "Hazen",
-      "rating": "4.0"
-    },
-    {
-      "id": 246,
-      "name": "Hazen (SR)",
-      "rating": "7.0"
-    },
-    {
-      "id": 247,
-      "name": "Helel ben Shalem",
-      "rating": "9.5"
-    },
-    {
-      "id": 248,
-      "name": "Helel ben Shalem (Summer)",
-      "rating": "9.8"
-    },
-    {
-      "id": 249,
-      "name": "Heles",
-      "rating": "9.3"
-    },
-    {
-      "id": 250,
-      "name": "Heles (Summer)",
-      "rating": "9.0"
-    },
-    {
-      "id": 251,
-      "name": "Heles (Wind)",
-      "rating": "9.2"
-    },
-    {
-      "id": 252,
-      "name": "Helnar",
-      "rating": "8.0"
-    },
-    {
-      "id": 253,
-      "name": "Helnar (Summer)",
-      "rating": "6.5"
-    },
-    {
-      "id": 254,
-      "name": "Herja",
-      "rating": "4.5"
-    },
-    {
-      "id": 255,
-      "name": "Herja (SR)",
-      "rating": "7.0"
-    },
-    {
-      "id": 256,
-      "name": "Herja (SSR)",
-      "rating": "8.5"
-    },
-    {
-      "id": 257,
-      "name": "Hiro Ryugasaki",
-      "rating": "8.0"
-    },
-    {
-      "id": 258,
-      "name": "Illnott",
-      "rating": "9.3"
-    },
-    {
-      "id": 259,
-      "name": "Illnott (Summer)",
-      "rating": "9.9"
-    },
-    {
-      "id": 260,
-      "name": "Ilsa",
-      "rating": "8.5"
-    },
-    {
-      "id": 261,
-      "name": "Ilsa (Light)",
-      "rating": "9.4"
-    },
-    {
-      "id": 262,
-      "name": "Ilsa (Summer)",
-      "rating": "9.2"
-    },
-    {
-      "id": 263,
-      "name": "Io",
-      "rating": "7.5"
-    },
-    {
-      "id": 264,
-      "name": "Io (Grand)",
-      "rating": "9.8"
-    },
-    {
-      "id": 265,
-      "name": "Io (Summer)",
-      "rating": "9.0"
-    },
-    {
-      "id": 266,
-      "name": "Ippatsu",
-      "rating": "5.0"
-    },
-    {
-      "id": 267,
-      "name": "Ippatsu (SR)",
-      "rating": "6.5"
-    },
-    {
-      "id": 268,
-      "name": "Ippatsu (SSR)",
-      "rating": "9.6"
-    },
-    {
-      "id": 269,
-      "name": "Ippatsu (Summer)",
-      "rating": "5.5"
-    },
-    {
-      "id": 270,
-      "name": "Isaac",
-      "rating": "9.5"
-    },
-    {
-      "id": 271,
-      "name": "Izmir",
-      "rating": "9.2"
-    },
-    {
-      "id": 272,
-      "name": "Izmir (Summer)",
-      "rating": "8.5"
-    },
-    {
-      "id": 273,
-      "name": "Izmir (Yukata)",
-      "rating": "9.5"
-    },
-    {
-      "id": 274,
-      "name": "Izuminokami Kanesada",
-      "rating": "7.5"
-    },
-    {
-      "id": 275,
-      "name": "Jamil",
-      "rating": "8.0"
-    },
-    {
-      "id": 276,
-      "name": "Jamil (Dark)",
-      "rating": "7.5"
-    },
-    {
-      "id": 277,
-      "name": "Jasmine",
-      "rating": "4.0"
-    },
-    {
-      "id": 278,
-      "name": "Jasmine (SR)",
-      "rating": "8.0"
-    },
-    {
-      "id": 279,
-      "name": "Jeanne d'Arc",
-      "rating": "9.4"
-    },
-    {
-      "id": 280,
-      "name": "Jeanne d'Arc (Dark)",
-      "rating": "9.1"
-    },
-    {
-      "id": 281,
-      "name": "Jeanne d'Arc (Grand)",
-      "rating": "9.8"
-    },
-    {
-      "id": 282,
-      "name": "Jeanne d'Arc (SR)",
-      "rating": "8.0"
-    },
-    {
-      "id": 283,
-      "name": "Jeanne d'Arc (Summer)",
-      "rating": "9.2"
-    },
-    {
-      "id": 284,
-      "name": "Jessica",
-      "rating": "7.0"
-    },
-    {
-      "id": 285,
-      "name": "Jessica (Event)",
-      "rating": "6.5"
-    },
-    {
-      "id": 286,
-      "name": "Jessica (Summer)",
-      "rating": "6.0"
-    },
-    {
-      "id": 287,
-      "name": "Jessica (Yukata)",
-      "rating": "9.4"
-    },
-    {
-      "id": 288,
-      "name": "Jin",
-      "rating": "8.5"
-    },
-    {
-      "id": 289,
-      "name": "Jin (Event)",
-      "rating": "7.0"
-    },
-    {
-      "id": 290,
-      "name": "Jin (Ronin)",
-      "rating": "7.5"
-    },
-    {
-      "id": 291,
-      "name": "Jin (Summer)",
-      "rating": "7.0"
-    },
-    {
-      "id": 292,
-      "name": "Jin (Wind)",
-      "rating": "6.5"
-    },
-    {
-      "id": 293,
-      "name": "J.J.",
-      "rating": "6.0"
-    },
-    {
-      "id": 294,
-      "name": "J.J. (Summer)",
-      "rating": "7.0"
-    },
-    {
-      "id": 295,
-      "name": "Joel",
-      "rating": "5.0"
-    },
-    {
-      "id": 296,
-      "name": "Joel (SR)",
-      "rating": "7.5"
-    },
-    {
-      "id": 297,
-      "name": "Johann",
-      "rating": "7.0"
-    },
-    {
-      "id": 298,
-      "name": "Johann (Event)",
-      "rating": "6.5"
-    },
-    {
-      "id": 299,
-      "name": "Joker",
-      "rating": "9.0"
-    },
-    {
-      "id": 300,
-      "name": "Joy (Event)",
-      "rating": "7.0"
-    },
-    {
-      "id": 301,
-      "name": "Juliet",
-      "rating": "9.6"
-    },
-    {
-      "id": 302,
-      "name": "Juliet (Water)",
-      "rating": "9.5"
-    },
-    {
-      "id": 303,
-      "name": "Juri",
-      "rating": "8.5"
-    },
-    {
-      "id": 304,
-      "name": "Juri (Event)",
-      "rating": "6.5"
-    },
-    {
-      "id": 305,
-      "name": "Kaede Takagaki",
-      "rating": "8.5"
-    },
-    {
-      "id": 306,
-      "name": "Kallen Kouzuki",
-      "rating": "9.0"
-    },
-    {
-      "id": 307,
-      "name": "Kanako Mimura",
-      "rating": "6.5"
-    },
-    {
-      "id": 308,
-      "name": "Kaoru Sakuraba",
-      "rating": "6.5"
-    },
-    {
-      "id": 309,
-      "name": "Karin",
-      "rating": "7.0"
-    },
-    {
-      "id": 310,
-      "name": "Karteira",
-      "rating": "5.0"
-    },
-    {
-      "id": 311,
-      "name": "Karteira (SR)",
-      "rating": "7.0"
-    },
-    {
-      "id": 312,
-      "name": "Karva",
-      "rating": "5.0"
-    },
-    {
-      "id": 313,
-      "name": "Karva (SR)",
-      "rating": "6.5"
-    },
-    {
-      "id": 314,
-      "name": "Karyl",
-      "rating": "8.5"
-    },
-    {
-      "id": 315,
-      "name": "Katalina",
-      "rating": "8.0"
-    },
-    {
-      "id": 316,
-      "name": "Katalina (Grand)",
-      "rating": "9.4"
-    },
-    {
-      "id": 317,
-      "name": "Katalina (Promo)",
-      "rating": "8.5"
-    },
-    {
-      "id": 318,
-      "name": "Katalina (Summer)",
-      "rating": "8.0"
-    },
-    {
-      "id": 319,
-      "name": "Katzelia",
-      "rating": ""
-    },
-    {
-      "id": 320,
-      "name": "Keehar",
-      "rating": "7.0"
-    },
-    {
-      "id": 321,
-      "name": "Kokkoro",
-      "rating": "9.2"
-    },
-    {
-      "id": 322,
-      "name": "Kolulu",
-      "rating": "9.4"
-    },
-    {
-      "id": 323,
-      "name": "Kolulu (Summer)",
-      "rating": "9.6"
-    },
-    {
-      "id": 324,
-      "name": "Korwa",
-      "rating": "8.5"
-    },
-    {
-      "id": 325,
-      "name": "Korwa (SR)",
-      "rating": "7.0"
-    },
-    {
-      "id": 326,
-      "name": "Korwa (Summer)",
-      "rating": "10"
-    },
-    {
-      "id": 327,
-      "name": "Kou",
-      "rating": "9.1"
-    },
-    {
-      "id": 328,
-      "name": "Koume Shirasaka",
-      "rating": "7.0"
-    },
-    {
-      "id": 329,
-      "name": "Krugne",
-      "rating": "3.5"
-    },
-    {
-      "id": 330,
-      "name": "Krugne (SR)",
-      "rating": "7.5"
-    },
-    {
-      "id": 331,
-      "name": "Kumbhira",
-      "rating": "9.8"
-    },
-    {
-      "id": 332,
-      "name": "Kumbhira (Event)",
-      "rating": "7.5"
-    },
-    {
-      "id": 333,
-      "name": "Kumbhira (Summer)",
-      "rating": "9.7"
-    },
-    {
-      "id": 334,
-      "name": "Kyojuro Rengoku",
-      "rating": "9.3"
-    },
-    {
-      "id": 335,
-      "name": "La Coiffe",
-      "rating": "5.5"
-    },
-    {
-      "id": 336,
-      "name": "La Coiffe (SR)",
-      "rating": "7.0"
-    },
-    {
-      "id": 337,
-      "name": "Ladiva",
-      "rating": "7.0"
-    },
-    {
-      "id": 338,
-      "name": "Ladiva (Holiday)",
-      "rating": "6.5"
-    },
-    {
-      "id": 339,
-      "name": "Ladiva (SSR)",
-      "rating": "9.5"
-    },
-    {
-      "id": 340,
-      "name": "Ladiva (Valentine)",
-      "rating": "9.3"
-    },
-    {
-      "id": 341,
-      "name": "Lady Grey",
-      "rating": "9.3"
-    },
-    {
-      "id": 342,
-      "name": "Lady Grey (Halloween)",
-      "rating": "9.4"
-    },
-    {
-      "id": 343,
-      "name": "Lady Katapillar and Vira",
-      "rating": "9.0"
-    },
-    {
-      "id": 344,
-      "name": "Laguna",
-      "rating": "6.5"
-    },
-    {
-      "id": 345,
-      "name": "Laguna (SSR)",
-      "rating": "8.5"
-    },
-    {
-      "id": 346,
-      "name": "Lamretta",
-      "rating": "7.0"
-    },
-    {
-      "id": 347,
-      "name": "Lamretta (R)",
-      "rating": "4.0"
-    },
-    {
-      "id": 348,
-      "name": "Lamretta (SSR)",
-      "rating": "9.4"
-    },
-    {
-      "id": 349,
-      "name": "Lamretta (Water)",
-      "rating": "6.5"
-    },
-    {
-      "id": 350,
-      "name": "Lancelot",
-      "rating": "9.3"
-    },
-    {
-      "id": 351,
-      "name": "Lancelot and Vane",
-      "rating": "9.3"
-    },
-    {
-      "id": 352,
-      "name": "Lancelot and Vane (Summer)",
-      "rating": "8.0"
-    },
-    {
-      "id": 353,
-      "name": "Lancelot (Event)",
-      "rating": "6.5"
-    },
-    {
-      "id": 354,
-      "name": "Lancelot (Grand)",
-      "rating": "9.7"
-    },
-    {
-      "id": 355,
-      "name": "Lancelot (Wind)",
-      "rating": "9.2"
-    },
-    {
-      "id": 356,
-      "name": "Lecia",
-      "rating": "5.5"
-    },
-    {
-      "id": 357,
-      "name": "Lecia (Grand)",
-      "rating": "9.4"
-    },
-    {
-      "id": 358,
-      "name": "Lecia (Summer)",
-      "rating": "6.5"
-    },
-    {
-      "id": 359,
-      "name": "Lecia (Water)",
-      "rating": "9.4"
-    },
-    {
-      "id": 360,
-      "name": "Lelouch Lamperouge",
-      "rating": "8.5"
-    },
-    {
-      "id": 361,
-      "name": "Lennah",
-      "rating": "9.0"
-    },
-    {
-      "id": 362,
-      "name": "Lennah (Earth)",
-      "rating": "9.5"
-    },
-    {
-      "id": 363,
-      "name": "Leona",
-      "rating": "7.0"
-    },
-    {
-      "id": 364,
-      "name": "Leona (Grand)",
-      "rating": "9.4"
-    },
-    {
-      "id": 365,
-      "name": "Leona (Yukata)",
-      "rating": "7.5"
-    },
-    {
-      "id": 366,
-      "name": "Leonora",
-      "rating": "4.0"
-    },
-    {
-      "id": 367,
-      "name": "Levi",
-      "rating": "9.0"
-    },
-    {
-      "id": 368,
-      "name": "Levin Sisters",
-      "rating": "9.1"
-    },
-    {
-      "id": 369,
-      "name": "Lich",
-      "rating": "10"
-    },
-    {
-      "id": 370,
-      "name": "Lilele",
-      "rating": "8.0"
-    },
-    {
-      "id": 371,
-      "name": "Lilele (Fire)",
-      "rating": "8.5"
-    },
-    {
-      "id": 372,
-      "name": "Lilele (Summer)",
-      "rating": "6.5"
-    },
-    {
-      "id": 373,
-      "name": "Lily",
-      "rating": "9.7"
-    },
-    {
-      "id": 374,
-      "name": "Lily (Event)",
-      "rating": "7.5"
-    },
-    {
-      "id": 375,
-      "name": "Lily (Holiday)",
-      "rating": "9.3"
-    },
-    {
-      "id": 376,
-      "name": "Lina",
-      "rating": "7.5"
-    },
-    {
-      "id": 377,
-      "name": "Lobelia",
-      "rating": ""
-    },
-    {
-      "id": 378,
-      "name": "Lowain",
-      "rating": "5.5"
-    },
-    {
-      "id": 379,
-      "name": "Lowain (Event)",
-      "rating": "7.5"
-    },
-    {
-      "id": 380,
-      "name": "Lowain (Summer)",
-      "rating": "5.0"
-    },
-    {
-      "id": 381,
-      "name": "Lucio",
-      "rating": "9.5"
-    },
-    {
-      "id": 382,
-      "name": "Lucio (Summer)",
-      "rating": "9.7"
-    },
-    {
-      "id": 383,
-      "name": "Lucius",
-      "rating": "7.0"
-    },
-    {
-      "id": 384,
-      "name": "Lucius (Fire)",
-      "rating": "7.0"
-    },
-    {
-      "id": 385,
-      "name": "Lucius (SSR)",
-      "rating": "9.3"
-    },
-    {
-      "id": 386,
-      "name": "Ludmila",
-      "rating": "5.0"
-    },
-    {
-      "id": 387,
-      "name": "Luna",
-      "rating": "6.5"
-    },
-    {
-      "id": 388,
-      "name": "Lunalu",
-      "rating": "6.0"
-    },
-    {
-      "id": 389,
-      "name": "Lunalu (Light)",
-      "rating": "9.4"
-    },
-    {
-      "id": 390,
-      "name": "Lunalu (SSR)",
-      "rating": "9.3"
-    },
-    {
-      "id": 391,
-      "name": "Lunalu (Summer)",
-      "rating": "6.0"
-    },
-    {
-      "id": 392,
-      "name": "Lyria (Event)",
-      "rating": "9.1"
-    },
-    {
-      "id": 393,
-      "name": "Macula Marius",
-      "rating": "9.2"
-    },
-    {
-      "id": 394,
-      "name": "Magisa",
-      "rating": "9.2"
-    },
-    {
-      "id": 395,
-      "name": "Magisa (Holiday)",
-      "rating": "9.5"
-    },
-    {
-      "id": 396,
-      "name": "Mahira",
-      "rating": "9.8"
-    },
-    {
-      "id": 397,
-      "name": "Mahira (Event)",
-      "rating": "7.5"
-    },
-    {
-      "id": 398,
-      "name": "Mahira (Holiday)",
-      "rating": "9.7"
-    },
-    {
-      "id": 399,
-      "name": "Malinda (Event)",
-      "rating": "0"
-    },
-    {
-      "id": 400,
-      "name": "Mariah",
-      "rating": "6.5"
-    },
-    {
-      "id": 401,
-      "name": "Maria Theresa",
-      "rating": ""
-    },
-    {
-      "id": 402,
-      "name": "Marquiares",
-      "rating": "8.5"
-    },
-    {
-      "id": 403,
-      "name": "Mary",
-      "rating": "4.0"
-    },
-    {
-      "id": 404,
-      "name": "Mary (Holiday)",
-      "rating": "9.4"
-    },
-    {
-      "id": 405,
-      "name": "Mary (SR)",
-      "rating": "6.5"
-    },
-    {
-      "id": 406,
-      "name": "Mary (Summer)",
-      "rating": "4.5"
-    },
-    {
-      "id": 407,
-      "name": "Medusa",
-      "rating": "9.2"
-    },
-    {
-      "id": 408,
-      "name": "Medusa (Promo)",
-      "rating": "8.0"
-    },
-    {
-      "id": 409,
-      "name": "Medusa (Summer)",
-      "rating": "9.8"
-    },
-    {
-      "id": 410,
-      "name": "Medusa (Valentine)",
-      "rating": "9.3"
-    },
-    {
-      "id": 411,
-      "name": "Meg (Event)",
-      "rating": "8.0"
-    },
-    {
-      "id": 412,
-      "name": "Meg (Summer)",
-      "rating": "9.7"
-    },
-    {
-      "id": 413,
-      "name": "Melissabelle",
-      "rating": "9.0"
-    },
-    {
-      "id": 414,
-      "name": "Melissabelle (Valentine)",
-      "rating": "9.5"
-    },
-    {
-      "id": 415,
-      "name": "Melleau",
-      "rating": "9.4"
-    },
-    {
-      "id": 416,
-      "name": "Meteon (Event)",
-      "rating": "8.0"
-    },
-    {
-      "id": 417,
-      "name": "Meteon (Holiday)",
-      "rating": "9.5"
-    },
-    {
-      "id": 418,
-      "name": "Metera",
-      "rating": "9.1"
-    },
-    {
-      "id": 419,
-      "name": "Metera (Fire)",
-      "rating": "9.4"
-    },
-    {
-      "id": 420,
-      "name": "Metera (Holiday)",
-      "rating": "9.4"
-    },
-    {
-      "id": 421,
-      "name": "Metera (Summer)",
-      "rating": "9.5"
-    },
-    {
-      "id": 422,
-      "name": "Mika Jougasaki",
-      "rating": "7.5"
-    },
-    {
-      "id": 423,
-      "name": "Mikasa",
-      "rating": "8.0"
-    },
-    {
-      "id": 424,
-      "name": "Mikazuki Munechika",
-      "rating": "8.5"
-    },
-    {
-      "id": 425,
-      "name": "Miku Maekawa",
-      "rating": "7.5"
-    },
-    {
-      "id": 426,
-      "name": "Milla Maxwell",
-      "rating": "6.5"
-    },
-    {
-      "id": 427,
-      "name": "Milleore",
-      "rating": "6.5"
-    },
-    {
-      "id": 428,
-      "name": "Milleore and Sahli Lao",
-      "rating": "9.3"
-    },
-    {
-      "id": 429,
-      "name": "Mimlemel",
-      "rating": "7.0"
-    },
-    {
-      "id": 430,
-      "name": "Mimlemel and Pun-Kin (Halloween)",
-      "rating": "7.0"
-    },
-    {
-      "id": 431,
-      "name": "Mimlemel and Stumpeye",
-      "rating": "7.5"
-    },
-    {
-      "id": 432,
-      "name": "Mimlemel (Summer)",
-      "rating": "10"
-    },
-    {
-      "id": 433,
-      "name": "Mimori Amamiya",
-      "rating": "9.0"
-    },
-    {
-      "id": 434,
-      "name": "Mina",
-      "rating": "7.5"
-    },
-    {
-      "id": 435,
-      "name": "Minami Nitta",
-      "rating": "8.0"
-    },
-    {
-      "id": 436,
-      "name": "Mio Honda",
-      "rating": "7.0"
-    },
-    {
-      "id": 437,
-      "name": "Mireille and Risette",
-      "rating": "9.4"
-    },
-    {
-      "id": 438,
-      "name": "Miria Akagi",
-      "rating": "7.5"
-    },
-    {
-      "id": 439,
-      "name": "Mirin",
-      "rating": "9.0"
-    },
-    {
-      "id": 440,
-      "name": "Mirin (Holiday)",
-      "rating": "9.4"
-    },
-    {
-      "id": 441,
-      "name": "Mirin (Light)",
-      "rating": "8.0"
-    },
-    {
-      "id": 442,
-      "name": "Mishra",
-      "rating": "6.5"
-    },
-    {
-      "id": 443,
-      "name": "Mishra (SSR)",
-      "rating": "9.3"
-    },
-    {
-      "id": 444,
-      "name": "Mizuki Kawashima",
-      "rating": "7.0"
-    },
-    {
-      "id": 445,
-      "name": "Monika",
-      "rating": "9.0"
-    },
-    {
-      "id": 446,
-      "name": "Monika (Grand)",
-      "rating": "9.5"
-    },
-    {
-      "id": 447,
-      "name": "Monika (Valentine)",
-      "rating": "9.6"
-    },
-    {
-      "id": 448,
-      "name": "Morphe and Phoebe (Event)",
-      "rating": "8.0"
-    },
-    {
-      "id": 449,
-      "name": "Morrigna",
-      "rating": "9.2"
-    },
-    {
-      "id": 450,
-      "name": "Ms. Miranda",
-      "rating": "9.5"
-    },
-    {
-      "id": 451,
-      "name": "Mugen",
-      "rating": "9.4"
-    },
-    {
-      "id": 452,
-      "name": "Naga",
-      "rating": "7.0"
-    },
-    {
-      "id": 453,
-      "name": "Nakoruru",
-      "rating": "6.5"
-    },
-    {
-      "id": 454,
-      "name": "Naoise",
-      "rating": "9.3"
-    },
-    {
-      "id": 455,
-      "name": "Naoise (Event)",
-      "rating": "7.5"
-    },
-    {
-      "id": 456,
-      "name": "Naoise (Fire)",
-      "rating": "9.3"
-    },
-    {
-      "id": 457,
-      "name": "Naoise (Promo)",
-      "rating": "7.5"
-    },
-    {
-      "id": 458,
-      "name": "Naoise (Summer)",
-      "rating": "9.2"
-    },
-    {
-      "id": 459,
-      "name": "Narmaya",
-      "rating": "9.5"
-    },
-    {
-      "id": 460,
-      "name": "Narmaya (Grand)",
-      "rating": "10"
-    },
-    {
-      "id": 461,
-      "name": "Narmaya (Holiday)",
-      "rating": "10"
-    },
-    {
-      "id": 462,
-      "name": "Narmaya (Summer)",
-      "rating": "9.4"
-    },
-    {
-      "id": 463,
-      "name": "Narmaya (Valentine)",
-      "rating": "6.0"
-    },
-    {
-      "id": 464,
-      "name": "Narmaya (Yukata)",
-      "rating": "9.6"
-    },
-    {
-      "id": 465,
-      "name": "Nectar",
-      "rating": "9.4"
-    },
-    {
-      "id": 466,
-      "name": "Nehan",
-      "rating": "10"
-    },
-    {
-      "id": 467,
-      "name": "Nemone",
-      "rating": "8.0"
-    },
-    {
-      "id": 468,
-      "name": "Nemone (Holiday)",
-      "rating": "9.8"
-    },
-    {
-      "id": 469,
-      "name": "Nene",
-      "rating": "4.5"
-    },
-    {
-      "id": 470,
-      "name": "New Generations",
-      "rating": "9.3"
-    },
-    {
-      "id": 471,
-      "name": "Nezahualpilli",
-      "rating": "9.4"
-    },
-    {
-      "id": 472,
-      "name": "Nezahualpilli (SR)",
-      "rating": "8.5"
-    },
-    {
-      "id": 473,
-      "name": "Nezha",
-      "rating": "8.5"
-    },
-    {
-      "id": 474,
-      "name": "Nicholas",
-      "rating": "9.1"
-    },
-    {
-      "id": 475,
-      "name": "Nicholas (Event)",
-      "rating": "8.0"
-    },
-    {
-      "id": 476,
-      "name": "Nicholas (Light)",
-      "rating": "9.5"
-    },
-    {
-      "id": 477,
-      "name": "Nier",
-      "rating": ""
-    },
-    {
-      "id": 478,
-      "name": "Nina Drango",
-      "rating": "7.5"
-    },
-    {
-      "id": 479,
-      "name": "Niyon",
-      "rating": ""
-    },
-    {
-      "id": 480,
-      "name": "Noa",
-      "rating": "7.5"
-    },
-    {
-      "id": 481,
-      "name": "Noa (Grand)",
-      "rating": "9.5"
-    },
-    {
-      "id": 482,
-      "name": "Nobita",
-      "rating": "9.3"
-    },
-    {
-      "id": 483,
-      "name": "Norcel",
-      "rating": "4.5"
-    },
-    {
-      "id": 484,
-      "name": "Novei",
-      "rating": "6.5"
-    },
-    {
-      "id": 485,
-      "name": "Olivia",
-      "rating": "9.6"
-    },
-    {
-      "id": 486,
-      "name": "Olivia (Event)",
-      "rating": "7.5"
-    },
-    {
-      "id": 487,
-      "name": "Orchid",
-      "rating": "9.7"
-    },
-    {
-      "id": 488,
-      "name": "Owen",
-      "rating": "8.5"
-    },
-    {
-      "id": 489,
-      "name": "Pamela",
-      "rating": "6.5"
-    },
-    {
-      "id": 490,
-      "name": "Paris (Event)",
-      "rating": "6.0"
-    },
-    {
-      "id": 491,
-      "name": "Pavidus",
-      "rating": "4.0"
-    },
-    {
-      "id": 492,
-      "name": "Pecorine",
-      "rating": "8.5"
-    },
-    {
-      "id": 493,
-      "name": "Pengy",
-      "rating": "6.5"
-    },
-    {
-      "id": 494,
-      "name": "Pengy (Event)",
-      "rating": "5.5"
-    },
-    {
-      "id": 495,
-      "name": "Pengy (SSR)",
-      "rating": "9.6"
-    },
-    {
-      "id": 496,
-      "name": "Percival",
-      "rating": "9.1"
-    },
-    {
-      "id": 497,
-      "name": "Percival (Event)",
-      "rating": "7.0"
-    },
-    {
-      "id": 498,
-      "name": "Percival (Light)",
-      "rating": "9.2"
-    },
-    {
-      "id": 499,
-      "name": "Percival (Summer)",
-      "rating": "9.0"
-    },
-    {
-      "id": 500,
-      "name": "Petra",
-      "rating": "4.5"
-    },
-    {
-      "id": 501,
-      "name": "Petra (SSR)",
-      "rating": "9.6"
-    },
-    {
-      "id": 502,
-      "name": "Philosophia",
-      "rating": "5.0"
-    },
-    {
-      "id": 503,
-      "name": "Philosophia (SR)",
-      "rating": "7.0"
-    },
-    {
-      "id": 504,
-      "name": "Pholia",
-      "rating": "9.3"
-    },
-    {
-      "id": 505,
-      "name": "Poseidon",
-      "rating": "10"
-    },
-    {
-      "id": 506,
-      "name": "Predator",
-      "rating": "8.0"
-    },
-    {
-      "id": 507,
-      "name": "Predator (SSR)",
-      "rating": "9.7"
-    },
-    {
-      "id": 508,
-      "name": "Rackam",
-      "rating": "6.5"
-    },
-    {
-      "id": 509,
-      "name": "Rackam (Grand)",
-      "rating": "9.2"
-    },
-    {
-      "id": 510,
-      "name": "Rackam (Holiday)",
-      "rating": "6.5"
-    },
-    {
-      "id": 511,
-      "name": "Randall",
-      "rating": "5.5"
-    },
-    {
-      "id": 512,
-      "name": "Randall (SR)",
-      "rating": "7.0"
-    },
-    {
-      "id": 513,
-      "name": "Randall (SSR)",
-      "rating": "9.4"
-    },
-    {
-      "id": 514,
-      "name": "Ranko Kanzaki",
-      "rating": "7.0"
-    },
-    {
-      "id": 515,
-      "name": "Rashid",
-      "rating": "7.0"
-    },
-    {
-      "id": 516,
-      "name": "Razia",
-      "rating": "8.5"
-    },
-    {
-      "id": 517,
-      "name": "Razia (SR)",
-      "rating": "7.5"
-    },
-    {
-      "id": 518,
-      "name": "Redluck",
-      "rating": "7.0"
-    },
-    {
-      "id": 519,
-      "name": "Rei",
-      "rating": "9.8"
-    },
-    {
-      "id": 520,
-      "name": "Reinhardtzar",
-      "rating": "6.5"
-    },
-    {
-      "id": 521,
-      "name": "Reinhardtzar (Grand)",
-      "rating": "9.4"
-    },
-    {
-      "id": 522,
-      "name": "Richard",
-      "rating": "3.0"
-    },
-    {
-      "id": 523,
-      "name": "Richard (SR)",
-      "rating": "8.0"
-    },
-    {
-      "id": 524,
-      "name": "Rika Jougasaki",
-      "rating": "7.0"
-    },
-    {
-      "id": 525,
-      "name": "Rin Shibuya",
-      "rating": "7.0"
-    },
-    {
-      "id": 526,
-      "name": "Rita",
-      "rating": "4.5"
-    },
-    {
-      "id": 527,
-      "name": "Robertina",
-      "rating": "6.5"
-    },
-    {
-      "id": 528,
-      "name": "Robomi",
-      "rating": "9.4"
-    },
-    {
-      "id": 529,
-      "name": "Robomi (Event)",
-      "rating": "6.0"
-    },
-    {
-      "id": 530,
-      "name": "Romeo",
-      "rating": "9.5"
-    },
-    {
-      "id": 531,
-      "name": "Romeo (Event)",
-      "rating": "6.0"
-    },
-    {
-      "id": 532,
-      "name": "Rosamia",
-      "rating": "4.5"
-    },
-    {
-      "id": 533,
-      "name": "Rosamia (SR)",
-      "rating": "7.0"
-    },
-    {
-      "id": 534,
-      "name": "Rosamia (SSR)",
-      "rating": "9.0"
-    },
-    {
-      "id": 535,
-      "name": "Rosamia (Yukata)",
-      "rating": "9.4"
-    },
-    {
-      "id": 536,
-      "name": "Rosetta",
-      "rating": "5.5"
-    },
-    {
-      "id": 537,
-      "name": "Rosetta (Grand)",
-      "rating": "9.5"
-    },
-    {
-      "id": 538,
-      "name": "Rosetta (Halloween)",
-      "rating": "9.5"
-    },
-    {
-      "id": 539,
-      "name": "Rosetta (Holiday)",
-      "rating": "9.1"
-    },
-    {
-      "id": 540,
-      "name": "Rosetta (Summer)",
-      "rating": "9.0"
-    },
-    {
-      "id": 541,
-      "name": "Rosine",
-      "rating": "5.0"
-    },
-    {
-      "id": 542,
-      "name": "Rosine (SR)",
-      "rating": "7.0"
-    },
-    {
-      "id": 543,
-      "name": "Ryan",
-      "rating": "4.5"
-    },
-    {
-      "id": 544,
-      "name": "Ryan (SR)",
-      "rating": "6.5"
-    },
-    {
-      "id": 545,
-      "name": "Ryu",
-      "rating": "6.5"
-    },
-    {
-      "id": 546,
-      "name": "Sachiko Koshimizu",
-      "rating": "6.0"
-    },
-    {
-      "id": 547,
-      "name": "Sahli Lao",
-      "rating": "7.0"
-    },
-    {
-      "id": 548,
-      "name": "Sakura Kinomoto",
-      "rating": "8.5"
-    },
-    {
-      "id": 549,
-      "name": "Sakura Shinguji",
-      "rating": "6.5"
-    },
-    {
-      "id": 550,
-      "name": "Sandalphon",
-      "rating": "10"
-    },
-    {
-      "id": 551,
-      "name": "Sandalphon (Event)",
-      "rating": "9.1"
-    },
-    {
-      "id": 552,
-      "name": "Sandalphon (Summer)",
-      "rating": "9.5"
-    },
-    {
-      "id": 553,
-      "name": "Sara",
-      "rating": "9.2"
-    },
-    {
-      "id": 554,
-      "name": "Sara (Event)",
-      "rating": "4.5"
-    },
-    {
-      "id": 555,
-      "name": "Sara (Light)",
-      "rating": "9.4"
-    },
-    {
-      "id": 556,
-      "name": "Sara (Summer)",
-      "rating": "7.5"
-    },
-    {
-      "id": 557,
-      "name": "Sarunan",
-      "rating": "9.3"
-    },
-    {
-      "id": 558,
-      "name": "Sarunan (Dark)",
-      "rating": "8.0"
-    },
-    {
-      "id": 559,
-      "name": "Sarya",
-      "rating": "6.0"
-    },
-    {
-      "id": 560,
-      "name": "Sarya (Event)",
-      "rating": "6.0"
-    },
-    {
-      "id": 561,
-      "name": "Satyr",
-      "rating": "9.3"
-    },
-    {
-      "id": 562,
-      "name": "Satyr (Earth)",
-      "rating": "9.8"
-    },
-    {
-      "id": 563,
-      "name": "Scathacha",
-      "rating": "9.4"
-    },
-    {
-      "id": 564,
-      "name": "Scathacha (Valentine)",
-      "rating": "9.3"
-    },
-    {
-      "id": 565,
-      "name": "Selfira",
-      "rating": "9.0"
-    },
-    {
-      "id": 566,
-      "name": "Selfira (Event)",
-      "rating": "8.0"
-    },
-    {
-      "id": 567,
-      "name": "Sen",
-      "rating": "7.0"
-    },
-    {
-      "id": 568,
-      "name": "Sen (Holiday)",
-      "rating": "7.5"
-    },
-    {
-      "id": 569,
-      "name": "Sen (SSR)",
-      "rating": "8.5"
-    },
-    {
-      "id": 570,
-      "name": "Seofon",
-      "rating": ""
-    },
-    {
-      "id": 571,
-      "name": "Seox",
-      "rating": ""
-    },
-    {
-      "id": 572,
-      "name": "Seox (Event)",
-      "rating": "9.0"
-    },
-    {
-      "id": 573,
-      "name": "Seruel",
-      "rating": "9.2"
-    },
-    {
-      "id": 574,
-      "name": "Seruel (Holiday)",
-      "rating": "9.2"
-    },
-    {
-      "id": 575,
-      "name": "Sevastien",
-      "rating": "7.5"
-    },
-    {
-      "id": 576,
-      "name": "Sevilbarra",
-      "rating": "8.5"
-    },
-    {
-      "id": 577,
-      "name": "Sevilbarra (Event)",
-      "rating": "8.0"
-    },
-    {
-      "id": 578,
-      "name": "Shao",
-      "rating": "8.0"
-    },
-    {
-      "id": 579,
-      "name": "Shiki Ichinose",
-      "rating": "7.5"
-    },
-    {
-      "id": 580,
-      "name": "Shinobu Kocho",
-      "rating": "9.2"
-    },
-    {
-      "id": 581,
-      "name": "Shinsengumi",
-      "rating": "9.3"
-    },
-    {
-      "id": 582,
-      "name": "Shion",
-      "rating": "9.5"
-    },
-    {
-      "id": 583,
-      "name": "Shitori",
-      "rating": "9.1"
-    },
-    {
-      "id": 584,
-      "name": "Shiva",
-      "rating": "9.5"
-    },
-    {
-      "id": 585,
-      "name": "Shiva (Summer)",
-      "rating": "9.6"
-    },
-    {
-      "id": 586,
-      "name": "Sho",
-      "rating": "9.5"
-    },
-    {
-      "id": 587,
-      "name": "Shura",
-      "rating": "9.3"
-    },
-    {
-      "id": 588,
-      "name": "Siegfried",
-      "rating": "9.4"
-    },
-    {
-      "id": 589,
-      "name": "Siegfried (Fire)",
-      "rating": "9.6"
-    },
-    {
-      "id": 590,
-      "name": "Siegfried (Summer)",
-      "rating": "9.3"
-    },
-    {
-      "id": 591,
-      "name": "Siegfried (Yukata)",
-      "rating": "9.0"
-    },
-    {
-      "id": 592,
-      "name": "Sig",
-      "rating": "7.0"
-    },
-    {
-      "id": 593,
-      "name": "Sig (Event)",
-      "rating": "6.0"
-    },
-    {
-      "id": 594,
-      "name": "Silva",
-      "rating": "9.2"
-    },
-    {
-      "id": 595,
-      "name": "Silva (Light)",
-      "rating": "9.3"
-    },
-    {
-      "id": 596,
-      "name": "Silva (Summer)",
-      "rating": "9.3"
-    },
-    {
-      "id": 597,
-      "name": "Silva (Yukata)",
-      "rating": "9.5"
-    },
-    {
-      "id": 598,
-      "name": "Skull",
-      "rating": "8.5"
-    },
-    {
-      "id": 599,
-      "name": "Skull and Balurga",
-      "rating": "9.5"
-    },
-    {
-      "id": 600,
-      "name": "Skull (Event)",
-      "rating": "6.5"
-    },
-    {
-      "id": 601,
-      "name": "Societte",
-      "rating": "9.5"
-    },
-    {
-      "id": 602,
-      "name": "Societte (Fire)",
-      "rating": "8.5"
-    },
-    {
-      "id": 603,
-      "name": "Societte (Wind)",
-      "rating": "9.3"
-    },
-    {
-      "id": 604,
-      "name": "Sophia",
-      "rating": "9.0"
-    },
-    {
-      "id": 605,
-      "name": "Sophia (SR)",
-      "rating": "7.5"
-    },
-    {
-      "id": 606,
-      "name": "Sophia (Water)",
-      "rating": "9.4"
-    },
-    {
-      "id": 607,
-      "name": "Sophie",
-      "rating": "6.5"
-    },
-    {
-      "id": 608,
-      "name": "Soriz",
-      "rating": "7.5"
-    },
-    {
-      "id": 609,
-      "name": "Soriz (Event)",
-      "rating": "6.5"
-    },
-    {
-      "id": 610,
-      "name": "Soriz (SSR)",
-      "rating": "9.7"
-    },
-    {
-      "id": 611,
-      "name": "Special Week, Silence Suzuka, and Tokai Teio",
-      "rating": "9.2"
-    },
-    {
-      "id": 612,
-      "name": "Spinnah",
-      "rating": "8.0"
-    },
-    {
-      "id": 613,
-      "name": "Spinnah (Holiday)",
-      "rating": "8.0"
-    },
-    {
-      "id": 614,
-      "name": "Stahn Aileron",
-      "rating": "6.5"
-    },
-    {
-      "id": 615,
-      "name": "Stan",
-      "rating": "4.5"
-    },
-    {
-      "id": 616,
-      "name": "Stan and Aliza",
-      "rating": "9.0"
-    },
-    {
-      "id": 617,
-      "name": "Stan (Event)",
-      "rating": "6.5"
-    },
-    {
-      "id": 618,
-      "name": "Sturm",
-      "rating": "9.5"
-    },
-    {
-      "id": 619,
-      "name": "Sturm (Grand)",
-      "rating": "9.5"
-    },
-    {
-      "id": 620,
-      "name": "Suframare",
-      "rating": "5.0"
-    },
-    {
-      "id": 621,
-      "name": "Suframare (Summer)",
-      "rating": "7.0"
-    },
-    {
-      "id": 622,
-      "name": "Sutera",
-      "rating": "7.5"
-    },
-    {
-      "id": 623,
-      "name": "Sutera (Event)",
-      "rating": "7.0"
-    },
-    {
-      "id": 624,
-      "name": "Sutera (Fire)",
-      "rating": "8.0"
-    },
-    {
-      "id": 625,
-      "name": "Sutera (SSR)",
-      "rating": "9.5"
-    },
-    {
-      "id": 626,
-      "name": "Suzaku Kururugi",
-      "rating": "8.5"
-    },
-    {
-      "id": 627,
-      "name": "Sylph",
-      "rating": "9.4"
-    },
-    {
-      "id": 628,
-      "name": "Syr (Event)",
-      "rating": "6.0"
-    },
-    {
-      "id": 629,
-      "name": "Tabina",
-      "rating": "9.4"
-    },
-    {
-      "id": 630,
-      "name": "Tabina (Summer)",
-      "rating": "9.5"
-    },
-    {
-      "id": 631,
-      "name": "Tanjiro, Nezuko, Zenitsu, and Inosuke",
-      "rating": "9.3"
-    },
-    {
-      "id": 632,
-      "name": "Tanya",
-      "rating": "4.5"
-    },
-    {
-      "id": 633,
-      "name": "Tanya (SR)",
-      "rating": "7.0"
-    },
-    {
-      "id": 634,
-      "name": "Tanya (SSR)",
-      "rating": "9.5"
-    },
-    {
-      "id": 635,
-      "name": "Tanya (Summer)",
-      "rating": "7.0"
-    },
-    {
-      "id": 636,
-      "name": "Tear Grants",
-      "rating": "7.5"
-    },
-    {
-      "id": 637,
-      "name": "Teena",
-      "rating": "7.0"
-    },
-    {
-      "id": 638,
-      "name": "Teena (Summer)",
-      "rating": "9.4"
-    },
-    {
-      "id": 639,
-      "name": "Teena (Valentine)",
-      "rating": "7.0"
-    },
-    {
-      "id": 640,
-      "name": "Teru Tendo",
-      "rating": "6.0"
-    },
-    {
-      "id": 641,
-      "name": "Thelonim",
-      "rating": "5.5"
-    },
-    {
-      "id": 642,
-      "name": "The Lowain Bros",
-      "rating": "7.5"
-    },
-    {
-      "id": 643,
-      "name": "Therese",
-      "rating": "7.0"
-    },
-    {
-      "id": 644,
-      "name": "Therese (Event)",
-      "rating": "6.0"
-    },
-    {
-      "id": 645,
-      "name": "Therese (SSR)",
-      "rating": "9.2"
-    },
-    {
-      "id": 646,
-      "name": "Threo",
-      "rating": ""
-    },
-    {
-      "id": 647,
-      "name": "Tiamat",
-      "rating": "9.6"
-    },
-    {
-      "id": 648,
-      "name": "Tien",
-      "rating": ""
-    },
-    {
-      "id": 649,
-      "name": "Tikoh",
-      "rating": "9.5"
-    },
-    {
-      "id": 650,
-      "name": "Tōru Amuro",
-      "rating": "7.0"
-    },
-    {
-      "id": 651,
-      "name": "Troue",
-      "rating": "9.3"
-    },
-    {
-      "id": 652,
-      "name": "Tsubasa",
-      "rating": "9.2"
-    },
-    {
-      "id": 653,
-      "name": "Tsubasa Kashiwagi",
-      "rating": "7.0"
-    },
-    {
-      "id": 654,
-      "name": "Tweyen",
-      "rating": ""
-    },
-    {
-      "id": 655,
-      "name": "Tyre",
-      "rating": "7.0"
-    },
-    {
-      "id": 656,
-      "name": "Tyre (Yukata)",
-      "rating": "7.5"
-    },
-    {
-      "id": 657,
-      "name": "Ulamnuran",
-      "rating": "7.0"
-    },
-    {
-      "id": 658,
-      "name": "Uzuki Shimamura",
-      "rating": "7.0"
-    },
-    {
-      "id": 659,
-      "name": "Vajra",
-      "rating": "10"
-    },
-    {
-      "id": 660,
-      "name": "Vane",
-      "rating": "6.5"
-    },
-    {
-      "id": 661,
-      "name": "Vane (Event)",
-      "rating": "6.5"
-    },
-    {
-      "id": 662,
-      "name": "Vane (Halloween)",
-      "rating": "9.7"
-    },
-    {
-      "id": 663,
-      "name": "Vane (SSR)",
-      "rating": "9.6"
-    },
-    {
-      "id": 664,
-      "name": "Vania",
-      "rating": "9.3"
-    },
-    {
-      "id": 665,
-      "name": "Vania and Malinda",
-      "rating": "9.3"
-    },
-    {
-      "id": 666,
-      "name": "Vania (SR)",
-      "rating": "8.0"
-    },
-    {
-      "id": 667,
-      "name": "Vanzza",
-      "rating": "4.5"
-    },
-    {
-      "id": 668,
-      "name": "Vanzza (SR)",
-      "rating": "7.0"
-    },
-    {
-      "id": 669,
-      "name": "Vaseraga",
-      "rating": "9.5"
-    },
-    {
-      "id": 670,
-      "name": "Vaseraga (Earth)",
-      "rating": "9.0"
-    },
-    {
-      "id": 671,
-      "name": "Vaseraga (Fire)",
-      "rating": "9.4"
-    },
-    {
-      "id": 672,
-      "name": "Veight",
-      "rating": "9.5"
-    },
-    {
-      "id": 673,
-      "name": "Vermeil",
-      "rating": "5.5"
-    },
-    {
-      "id": 674,
-      "name": "Vermeil (SR)",
-      "rating": "8.0"
-    },
-    {
-      "id": 675,
-      "name": "Viceroy",
-      "rating": "4.5"
-    },
-    {
-      "id": 676,
-      "name": "Vikala",
-      "rating": "9.6"
-    },
-    {
-      "id": 677,
-      "name": "Vikala (Event)",
-      "rating": "9.0"
-    },
-    {
-      "id": 678,
-      "name": "Vira",
-      "rating": "6.0"
-    },
-    {
-      "id": 679,
-      "name": "Vira (Grand)",
-      "rating": "9.8"
-    },
-    {
-      "id": 680,
-      "name": "Vira (Promo)",
-      "rating": "9.1"
-    },
-    {
-      "id": 681,
-      "name": "Vira (SSR)",
-      "rating": "9.2"
-    },
-    {
-      "id": 682,
-      "name": "Vira (Summer)",
-      "rating": "9.5"
-    },
-    {
-      "id": 683,
-      "name": "Vira (Valentine)",
-      "rating": "9.5"
-    },
-    {
-      "id": 684,
-      "name": "Vira (Wind)",
-      "rating": "9.2"
-    },
-    {
-      "id": 685,
-      "name": "Volenna",
-      "rating": "5.0"
-    },
-    {
-      "id": 686,
-      "name": "Volenna (Event)",
-      "rating": "5.5"
-    },
-    {
-      "id": 687,
-      "name": "Walder",
-      "rating": "4.0"
-    },
-    {
-      "id": 688,
-      "name": "Walder (Event)",
-      "rating": "8.5"
-    },
-    {
-      "id": 689,
-      "name": "Walder (Holiday)",
-      "rating": "4.0"
-    },
-    {
-      "id": 690,
-      "name": "Walder (Summer)",
-      "rating": "4.0"
-    },
-    {
-      "id": 691,
-      "name": "Will",
-      "rating": "4.0"
-    },
-    {
-      "id": 692,
-      "name": "Will (SR)",
-      "rating": "8.0"
-    },
-    {
-      "id": 693,
-      "name": "Wilnas",
-      "rating": "9.5"
-    },
-    {
-      "id": 694,
-      "name": "Wulf and Renie",
-      "rating": "9.5"
-    },
-    {
-      "id": 695,
-      "name": "Wulf and Renie (Halloween)",
-      "rating": "8.0"
-    },
-    {
-      "id": 696,
-      "name": "Yaia",
-      "rating": "8.5"
-    },
-    {
-      "id": 697,
-      "name": "Yaia (Holiday)",
-      "rating": "8.5"
-    },
-    {
-      "id": 698,
-      "name": "Yamanbagiri Kunihiro",
-      "rating": "6.5"
-    },
-    {
-      "id": 699,
-      "name": "Yggdrasil",
-      "rating": "9.3"
-    },
-    {
-      "id": 700,
-      "name": "Yggdrasil (Wind)",
-      "rating": "9.2"
-    },
-    {
-      "id": 701,
-      "name": "Yngwie",
-      "rating": "9.2"
-    },
-    {
-      "id": 702,
-      "name": "Yngwie (Yukata)",
-      "rating": "9.3"
-    },
-    {
-      "id": 703,
-      "name": "Yodarha",
-      "rating": "4.0"
-    },
-    {
-      "id": 704,
-      "name": "Yodarha (SSR)",
-      "rating": "9.4"
-    },
-    {
-      "id": 705,
-      "name": "Yodarha (Wind)",
-      "rating": "9.5"
-    },
-    {
-      "id": 706,
-      "name": "Yorozuya",
-      "rating": "9.2"
-    },
-    {
-      "id": 707,
-      "name": "You",
-      "rating": "9.6"
-    },
-    {
-      "id": 708,
-      "name": "You (Event)",
-      "rating": "8.0"
-    },
-    {
-      "id": 709,
-      "name": "Young Cat (Event)",
-      "rating": "6.5"
-    },
-    {
-      "id": 710,
-      "name": "Yuel",
-      "rating": "9.3"
-    },
-    {
-      "id": 711,
-      "name": "Yuel (Event)",
-      "rating": "7.0"
-    },
-    {
-      "id": 712,
-      "name": "Yuel (Summer)",
-      "rating": "9.0"
-    },
-    {
-      "id": 713,
-      "name": "Yuel (Water)",
-      "rating": "9.1"
-    },
-    {
-      "id": 714,
-      "name": "Yuisis",
-      "rating": "8.5"
-    },
-    {
-      "id": 715,
-      "name": "Yuisis (Fire)",
-      "rating": "9.4"
-    },
-    {
-      "id": 716,
-      "name": "Yuisis (Yukata)",
-      "rating": "7.5"
-    },
-    {
-      "id": 717,
-      "name": "Yuni",
-      "rating": "9.6"
-    },
-    {
-      "id": 718,
-      "name": "Yuri Lowell",
-      "rating": "6.5"
-    },
-    {
-      "id": 719,
-      "name": "Yurius",
-      "rating": "9.6"
-    },
-    {
-      "id": 720,
-      "name": "Zahlhamelina",
-      "rating": "9.0"
-    },
-    {
-      "id": 721,
-      "name": "Zahlhamelina (Yukata)",
-      "rating": "9.7"
-    },
-    {
-      "id": 722,
-      "name": "Zaja",
-      "rating": "7.5"
-    },
-    {
-      "id": 723,
-      "name": "Zaja (Halloween)",
-      "rating": "7.0"
-    },
-    {
-      "id": 724,
-      "name": "Zehek",
-      "rating": "4.5"
-    },
-    {
-      "id": 725,
-      "name": "Zehek (Event)",
-      "rating": "6.5"
-    },
-    {
-      "id": 726,
-      "name": "Zehek (SSR)",
-      "rating": "9.4"
-    },
-    {
-      "id": 727,
-      "name": "Zeta",
-      "rating": "9.5"
-    },
-    {
-      "id": 728,
-      "name": "Zeta and Vaseraga (Halloween)",
-      "rating": "9.5"
-    },
-    {
-      "id": 729,
-      "name": "Zeta (Dark)",
-      "rating": "8.5"
-    },
-    {
-      "id": 730,
-      "name": "Zeta (Event)",
-      "rating": "8.0"
-    },
-    {
-      "id": 731,
-      "name": "Zeta (Summer)",
-      "rating": "9.6"
-    },
-    {
-      "id": 732,
-      "name": "Zeta (Water)",
-      "rating": "9.8"
-    },
-    {
-      "id": 733,
-      "name": "Zooey",
-      "rating": "9.3"
-    },
-    {
-      "id": 734,
-      "name": "Zooey (Event)",
-      "rating": "7.0"
-    },
-    {
-      "id": 735,
-      "name": "Zooey (Grand)",
-      "rating": "9.8"
-    },
-    {
-      "id": 736,
-      "name": "Zooey (Promo)",
-      "rating": "8.5"
-    },
-    {
-      "id": 737,
-      "name": "Μ's First-Years",
-      "rating": "9.0"
-    },
-    {
-      "id": 738,
-      "name": "Μ's Second-Years",
-      "rating": "9.0"
-    },
-    {
-      "id": 739,
-      "name": "Μ's Third-Years",
-      "rating": "9.1"
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "rating": ""
+  },
+  {
+    "id": 2,
+    "name": "Abby",
+    "rating": "9.2"
+  },
+  {
+    "id": 3,
+    "name": "Abby (Promo)",
+    "rating": "7.0"
+  },
+  {
+    "id": 4,
+    "name": "Agielba",
+    "rating": "8.5"
+  },
+  {
+    "id": 5,
+    "name": "Aglovale",
+    "rating": "9.1"
+  },
+  {
+    "id": 6,
+    "name": "Aglovale (Valentine)",
+    "rating": "9.9"
+  },
+  {
+    "id": 7,
+    "name": "Airi Totoki",
+    "rating": "7.0"
+  },
+  {
+    "id": 8,
+    "name": "Alanaan",
+    "rating": ""
+  },
+  {
+    "id": 9,
+    "name": "Albert",
+    "rating": "9.3"
+  },
+  {
+    "id": 10,
+    "name": "Albert (Dark)",
+    "rating": "9.5"
+  },
+  {
+    "id": 11,
+    "name": "Albert (Event)",
+    "rating": "7.5"
+  },
+  {
+    "id": 12,
+    "name": "Albert (Summer)",
+    "rating": "9.2"
+  },
+  {
+    "id": 13,
+    "name": "Alec",
+    "rating": "7.0"
+  },
+  {
+    "id": 14,
+    "name": "Aletheia",
+    "rating": "9.0"
+  },
+  {
+    "id": 15,
+    "name": "Alexiel",
+    "rating": "9.4"
+  },
+  {
+    "id": 16,
+    "name": "Alexiel (Summer)",
+    "rating": "9.7"
+  },
+  {
+    "id": 17,
+    "name": "Alistair",
+    "rating": "4.5"
+  },
+  {
+    "id": 18,
+    "name": "Aliza",
+    "rating": "8.5"
+  },
+  {
+    "id": 19,
+    "name": "Aliza (Event)",
+    "rating": "7.0"
+  },
+  {
+    "id": 20,
+    "name": "Aliza (Water)",
+    "rating": "7.5"
+  },
+  {
+    "id": 21,
+    "name": "Almeida",
+    "rating": "7.0"
+  },
+  {
+    "id": 22,
+    "name": "Almeida (Summer)",
+    "rating": "7.5"
+  },
+  {
+    "id": 23,
+    "name": "Altair",
+    "rating": "9.1"
+  },
+  {
+    "id": 24,
+    "name": "Altair (Holiday)",
+    "rating": "9.3"
+  },
+  {
+    "id": 25,
+    "name": "Amira",
+    "rating": "9.0"
+  },
+  {
+    "id": 26,
+    "name": "Amira (Promo)",
+    "rating": "7.0"
+  },
+  {
+    "id": 27,
+    "name": "Amira (Summer)",
+    "rating": "9.5"
+  },
+  {
+    "id": 28,
+    "name": "Anastasia",
+    "rating": "7.0"
+  },
+  {
+    "id": 29,
+    "name": "Andira",
+    "rating": "9.8"
+  },
+  {
+    "id": 30,
+    "name": "Andira (Event)",
+    "rating": "7.0"
+  },
+  {
+    "id": 31,
+    "name": "Andira (Summer)",
+    "rating": "9.6"
+  },
+  {
+    "id": 32,
+    "name": "Ange",
+    "rating": "7.0"
+  },
+  {
+    "id": 33,
+    "name": "Ange (Halloween)",
+    "rating": "6.0"
+  },
+  {
+    "id": 34,
+    "name": "Anila",
+    "rating": "9.6"
+  },
+  {
+    "id": 35,
+    "name": "Anila (Event)",
+    "rating": "6.5"
+  },
+  {
+    "id": 36,
+    "name": "Anila (Summer)",
+    "rating": "9.6"
+  },
+  {
+    "id": 37,
+    "name": "Anna",
+    "rating": "4.5"
+  },
+  {
+    "id": 38,
+    "name": "Anna (SR)",
+    "rating": "6.0"
+  },
+  {
+    "id": 39,
+    "name": "Anna (Summer)",
+    "rating": "4.0"
+  },
+  {
+    "id": 40,
+    "name": "Anne",
+    "rating": "8.5"
+  },
+  {
+    "id": 41,
+    "name": "Anre",
+    "rating": ""
+  },
+  {
+    "id": 42,
+    "name": "Anthuria",
+    "rating": "9.5"
+  },
+  {
+    "id": 43,
+    "name": "Anthuria (Holiday)",
+    "rating": "9.8"
+  },
+  {
+    "id": 44,
+    "name": "Anthuria (Yukata)",
+    "rating": "9.5"
+  },
+  {
+    "id": 45,
+    "name": "Anzu Futaba",
+    "rating": "7.0"
+  },
+  {
+    "id": 46,
+    "name": "Aoidos",
+    "rating": "9.3"
+  },
+  {
+    "id": 47,
+    "name": "Aqours First-Years",
+    "rating": "9.0"
+  },
+  {
+    "id": 48,
+    "name": "Aqours Second-Years",
+    "rating": "9.0"
+  },
+  {
+    "id": 49,
+    "name": "Aqours Third-Years",
+    "rating": "9.0"
+  },
+  {
+    "id": 50,
+    "name": "Arisa",
+    "rating": "7.0"
+  },
+  {
+    "id": 51,
+    "name": "Arriet",
+    "rating": "9.0"
+  },
+  {
+    "id": 52,
+    "name": "Arthur",
+    "rating": "9.4"
+  },
+  {
+    "id": 53,
+    "name": "Arthur and Mordred",
+    "rating": "7.0"
+  },
+  {
+    "id": 54,
+    "name": "Arthur (Event)",
+    "rating": "7.0"
+  },
+  {
+    "id": 55,
+    "name": "Arulumaya",
+    "rating": "9.1"
+  },
+  {
+    "id": 56,
+    "name": "Arulumaya (Holiday)",
+    "rating": "9.0"
+  },
+  {
+    "id": 57,
+    "name": "Arulumaya (Light)",
+    "rating": "9.3"
+  },
+  {
+    "id": 58,
+    "name": "Arulumaya (Yukata)",
+    "rating": "8.0"
+  },
+  {
+    "id": 59,
+    "name": "Arusha",
+    "rating": "7.5"
+  },
+  {
+    "id": 60,
+    "name": "Aster",
+    "rating": "7.5"
+  },
+  {
+    "id": 61,
+    "name": "Aster (Event)",
+    "rating": "6.0"
+  },
+  {
+    "id": 62,
+    "name": "Athena",
+    "rating": "9.7"
+  },
+  {
+    "id": 63,
+    "name": "Augusta",
+    "rating": "6.5"
+  },
+  {
+    "id": 64,
+    "name": "Ayer",
+    "rating": "9.0"
+  },
+  {
+    "id": 65,
+    "name": "Ayer (Summer)",
+    "rating": "8.0"
+  },
+  {
+    "id": 66,
+    "name": "Azazel",
+    "rating": "9.2"
+  },
+  {
+    "id": 67,
+    "name": "Azazel (Halloween)",
+    "rating": "9.5"
+  },
+  {
+    "id": 68,
+    "name": "Azusa",
+    "rating": "9.5"
+  },
+  {
+    "id": 69,
+    "name": "Baal",
+    "rating": "9.3"
+  },
+  {
+    "id": 70,
+    "name": "Bakura",
+    "rating": "4.5"
+  },
+  {
+    "id": 71,
+    "name": "Balurga",
+    "rating": "5.5"
+  },
+  {
+    "id": 72,
+    "name": "Baotorda",
+    "rating": "7.0"
+  },
+  {
+    "id": 73,
+    "name": "Baotorda (SSR)",
+    "rating": "9.5"
+  },
+  {
+    "id": 74,
+    "name": "Barawa",
+    "rating": "6.0"
+  },
+  {
+    "id": 75,
+    "name": "Barawa (Event)",
+    "rating": "7.0"
+  },
+  {
+    "id": 76,
+    "name": "Barawa (SR)",
+    "rating": "7.0"
+  },
+  {
+    "id": 77,
+    "name": "Beatrix",
+    "rating": "9.0"
+  },
+  {
+    "id": 78,
+    "name": "Beatrix (Earth)",
+    "rating": "9.4"
+  },
+  {
+    "id": 79,
+    "name": "Beatrix (Halloween)",
+    "rating": "8.0"
+  },
+  {
+    "id": 80,
+    "name": "Beatrix (SR)",
+    "rating": "7.5"
+  },
+  {
+    "id": 81,
+    "name": "Beatrix (Summer)",
+    "rating": "9.5"
+  },
+  {
+    "id": 82,
+    "name": "Benjamin",
+    "rating": "9.1"
+  },
+  {
+    "id": 83,
+    "name": "Black Knight",
+    "rating": "9.6"
+  },
+  {
+    "id": 84,
+    "name": "Black Knight and Orchis",
+    "rating": "9.0"
+  },
+  {
+    "id": 85,
+    "name": "Blazing Teacher Elmott",
+    "rating": "6.5"
+  },
+  {
+    "id": 86,
+    "name": "Bobobo-bo Bo-bobo",
+    "rating": "9.2"
+  },
+  {
+    "id": 87,
+    "name": "Bridgette",
+    "rating": "5.5"
+  },
+  {
+    "id": 88,
+    "name": "Bridgette and Cordelia",
+    "rating": "7.5"
+  },
+  {
+    "id": 89,
+    "name": "Cagliostro",
+    "rating": "9.3"
+  },
+  {
+    "id": 90,
+    "name": "Cagliostro (Dark)",
+    "rating": "9.2"
+  },
+  {
+    "id": 91,
+    "name": "Cagliostro (Event)",
+    "rating": "7.0"
+  },
+  {
+    "id": 92,
+    "name": "Cagliostro (Grand)",
+    "rating": "9.7"
+  },
+  {
+    "id": 93,
+    "name": "Cagliostro (Halloween)",
+    "rating": "9.1"
+  },
+  {
+    "id": 94,
+    "name": "Cagliostro (Summer)",
+    "rating": "9.7"
+  },
+  {
+    "id": 95,
+    "name": "Cailana",
+    "rating": "6.0"
+  },
+  {
+    "id": 96,
+    "name": "Cailana (SR)",
+    "rating": "7.5"
+  },
+  {
+    "id": 97,
+    "name": "Caim",
+    "rating": ""
+  },
+  {
+    "id": 98,
+    "name": "Cain",
+    "rating": "7.0"
+  },
+  {
+    "id": 99,
+    "name": "Cain (Grand)",
+    "rating": "9.3"
+  },
+  {
+    "id": 100,
+    "name": "Camieux",
+    "rating": "4.5"
+  },
+  {
+    "id": 101,
+    "name": "Camieux (Earth)",
+    "rating": "5.0"
+  },
+  {
+    "id": 102,
+    "name": "Camieux (Summer)",
+    "rating": "7.0"
+  },
+  {
+    "id": 103,
+    "name": "Carmelina",
+    "rating": "9.0"
+  },
+  {
+    "id": 104,
+    "name": "Carmelina (SR)",
+    "rating": "6.5"
+  },
+  {
+    "id": 105,
+    "name": "Carren",
+    "rating": "7.0"
+  },
+  {
+    "id": 106,
+    "name": "Carren (Event)",
+    "rating": "7.0"
+  },
+  {
+    "id": 107,
+    "name": "Cassius (Event)",
+    "rating": "7.0"
+  },
+  {
+    "id": 108,
+    "name": "Cassius (Event SSR)",
+    "rating": "9.1"
+  },
+  {
+    "id": 109,
+    "name": "Cassius (Valentine)",
+    "rating": "9.6"
+  },
+  {
+    "id": 110,
+    "name": "Cassius (Yukata)",
+    "rating": "7.0"
+  },
+  {
+    "id": 111,
+    "name": "Catherine",
+    "rating": "8.5"
+  },
+  {
+    "id": 112,
+    "name": "Catherine (SR)",
+    "rating": "7.0"
+  },
+  {
+    "id": 113,
+    "name": "Catura",
+    "rating": "9.6"
+  },
+  {
+    "id": 114,
+    "name": "Catura (Event)",
+    "rating": "0"
+  },
+  {
+    "id": 115,
+    "name": "Cecile",
+    "rating": "6.5"
+  },
+  {
+    "id": 116,
+    "name": "Cerberus",
+    "rating": "9.5"
+  },
+  {
+    "id": 117,
+    "name": "Ceylan (Event)",
+    "rating": "7.0"
+  },
+  {
+    "id": 118,
+    "name": "Charioce XVII",
+    "rating": "8.5"
+  },
+  {
+    "id": 119,
+    "name": "Charlotta",
+    "rating": "9.0"
+  },
+  {
+    "id": 120,
+    "name": "Charlotta (Event)",
+    "rating": "7.5"
+  },
+  {
+    "id": 121,
+    "name": "Charlotta (Halloween)",
+    "rating": "9.3"
+  },
+  {
+    "id": 122,
+    "name": "Charlotta (Light)",
+    "rating": "9.3"
+  },
+  {
+    "id": 123,
+    "name": "Charlotta (Summer)",
+    "rating": "7.5"
+  },
+  {
+    "id": 124,
+    "name": "Chat Noir",
+    "rating": "8.5"
+  },
+  {
+    "id": 125,
+    "name": "Chloe",
+    "rating": "5.5"
+  },
+  {
+    "id": 126,
+    "name": "Chloe (Summer)",
+    "rating": "7.0"
+  },
+  {
+    "id": 127,
+    "name": "Christina",
+    "rating": "8.5"
+  },
+  {
+    "id": 128,
+    "name": "Chun-Li",
+    "rating": "7.0"
+  },
+  {
+    "id": 129,
+    "name": "Cidala",
+    "rating": "9.7"
+  },
+  {
+    "id": 130,
+    "name": "Clarisse",
+    "rating": "9.0"
+  },
+  {
+    "id": 131,
+    "name": "Clarisse (Holiday)",
+    "rating": "8.5"
+  },
+  {
+    "id": 132,
+    "name": "Clarisse (Light)",
+    "rating": "9.2"
+  },
+  {
+    "id": 133,
+    "name": "Clarisse (Valentine)",
+    "rating": "9.6"
+  },
+  {
+    "id": 134,
+    "name": "Claudia",
+    "rating": "6.5"
+  },
+  {
+    "id": 135,
+    "name": "Colossus",
+    "rating": "9.1"
+  },
+  {
+    "id": 136,
+    "name": "Conan Edogawa",
+    "rating": "8.0"
+  },
+  {
+    "id": 137,
+    "name": "Cordelia",
+    "rating": "5.5"
+  },
+  {
+    "id": 138,
+    "name": "Cucouroux",
+    "rating": "7.0"
+  },
+  {
+    "id": 139,
+    "name": "Cucouroux (Halloween)",
+    "rating": "9.6"
+  },
+  {
+    "id": 140,
+    "name": "Cucouroux (SSR)",
+    "rating": "8.5"
+  },
+  {
+    "id": 141,
+    "name": "Cupitan",
+    "rating": "9.6"
+  },
+  {
+    "id": 142,
+    "name": "Cure Black and Cure White",
+    "rating": "8.5"
+  },
+  {
+    "id": 143,
+    "name": "Daetta",
+    "rating": "5.0"
+  },
+  {
+    "id": 144,
+    "name": "Daetta (SR)",
+    "rating": "6.5"
+  },
+  {
+    "id": 145,
+    "name": "Dante",
+    "rating": "6.5"
+  },
+  {
+    "id": 146,
+    "name": "Dante and Freiheit",
+    "rating": "9.5"
+  },
+  {
+    "id": 147,
+    "name": "Dante (SR)",
+    "rating": "8.0"
+  },
+  {
+    "id": 148,
+    "name": "Danua",
+    "rating": "7.5"
+  },
+  {
+    "id": 149,
+    "name": "Danua (Halloween)",
+    "rating": "8.5"
+  },
+  {
+    "id": 150,
+    "name": "Danua (SSR)",
+    "rating": "9.0"
+  },
+  {
+    "id": 151,
+    "name": "Danua (Summer)",
+    "rating": "8.5"
+  },
+  {
+    "id": 152,
+    "name": "De La Fille",
+    "rating": "9.5"
+  },
+  {
+    "id": 153,
+    "name": "De La Fille (Earth)",
+    "rating": "9.0"
+  },
+  {
+    "id": 154,
+    "name": "De La Fille (Summer)",
+    "rating": "8.5"
+  },
+  {
+    "id": 155,
+    "name": "Deliford",
+    "rating": "4.0"
+  },
+  {
+    "id": 156,
+    "name": "Deliford (SR)",
+    "rating": "7.5"
+  },
+  {
+    "id": 157,
+    "name": "Diantha",
+    "rating": "9.2"
+  },
+  {
+    "id": 158,
+    "name": "Diantha (Promo)",
+    "rating": "7.0"
+  },
+  {
+    "id": 159,
+    "name": "Diantha (Summer)",
+    "rating": "9.1"
+  },
+  {
+    "id": 160,
+    "name": "Doraemon",
+    "rating": "9.2"
+  },
+  {
+    "id": 161,
+    "name": "Dorothy",
+    "rating": "5.5"
+  },
+  {
+    "id": 162,
+    "name": "Dorothy and Claudia",
+    "rating": "9.1"
+  },
+  {
+    "id": 163,
+    "name": "Drang",
+    "rating": "9.0"
+  },
+  {
+    "id": 164,
+    "name": "Drang (Grand)",
+    "rating": "9.4"
+  },
+  {
+    "id": 165,
+    "name": "Drusilla",
+    "rating": "5.0"
+  },
+  {
+    "id": 166,
+    "name": "Eahta",
+    "rating": ""
+  },
+  {
+    "id": 167,
+    "name": "Ejaeli",
+    "rating": "8.0"
+  },
+  {
+    "id": 168,
+    "name": "Elize Lutus",
+    "rating": "8.0"
+  },
+  {
+    "id": 169,
+    "name": "Elmelaura",
+    "rating": "4.0"
+  },
+  {
+    "id": 170,
+    "name": "Elmott",
+    "rating": "5.5"
+  },
+  {
+    "id": 171,
+    "name": "Elmott (SSR)",
+    "rating": "9.7"
+  },
+  {
+    "id": 172,
+    "name": "Elmott (Summer)",
+    "rating": "6.5"
+  },
+  {
+    "id": 173,
+    "name": "Elta",
+    "rating": "6.0"
+  },
+  {
+    "id": 174,
+    "name": "Elta (Light)",
+    "rating": "6.5"
+  },
+  {
+    "id": 175,
+    "name": "Enyo",
+    "rating": "9.4"
+  },
+  {
+    "id": 176,
+    "name": "Erica Fontaine",
+    "rating": "7.5"
+  },
+  {
+    "id": 177,
+    "name": "Erin",
+    "rating": "7.0"
+  },
+  {
+    "id": 178,
+    "name": "Eso",
+    "rating": "4.0"
+  },
+  {
+    "id": 179,
+    "name": "Eso (SR)",
+    "rating": "6.5"
+  },
+  {
+    "id": 180,
+    "name": "Estarriola",
+    "rating": ""
+  },
+  {
+    "id": 181,
+    "name": "Eugen",
+    "rating": "7.0"
+  },
+  {
+    "id": 182,
+    "name": "Eugen (Grand)",
+    "rating": "9.4"
+  },
+  {
+    "id": 183,
+    "name": "Eugen (Summer)",
+    "rating": "6.5"
+  },
+  {
+    "id": 184,
+    "name": "Europa",
+    "rating": "9.4"
+  },
+  {
+    "id": 185,
+    "name": "Europa (Summer)",
+    "rating": "9.1"
+  },
+  {
+    "id": 186,
+    "name": "Eustace",
+    "rating": "9.0"
+  },
+  {
+    "id": 187,
+    "name": "Eustace (Dark)",
+    "rating": "9.4"
+  },
+  {
+    "id": 188,
+    "name": "Eustace (Halloween)",
+    "rating": "9.1"
+  },
+  {
+    "id": 189,
+    "name": "Ewiyar",
+    "rating": "9.0"
+  },
+  {
+    "id": 190,
+    "name": "Ezecrain",
+    "rating": "4.5"
+  },
+  {
+    "id": 191,
+    "name": "Ezecrain (Event)",
+    "rating": "7.0"
+  },
+  {
+    "id": 192,
+    "name": "Farrah",
+    "rating": "4.0"
+  },
+  {
+    "id": 193,
+    "name": "Farrah and Juri",
+    "rating": "9.1"
+  },
+  {
+    "id": 194,
+    "name": "Farrah (Event)",
+    "rating": "6.5"
+  },
+  {
+    "id": 195,
+    "name": "Farrah (SR)",
+    "rating": "6.0"
+  },
+  {
+    "id": 196,
+    "name": "Farrah (Summer)",
+    "rating": "7.0"
+  },
+  {
+    "id": 197,
+    "name": "Feather",
+    "rating": "4.5"
+  },
+  {
+    "id": 198,
+    "name": "Feather (Halloween)",
+    "rating": "8.0"
+  },
+  {
+    "id": 199,
+    "name": "Feather (SR)",
+    "rating": "8.0"
+  },
+  {
+    "id": 200,
+    "name": "Feather (SSR)",
+    "rating": "9.4"
+  },
+  {
+    "id": 201,
+    "name": "Fediel",
+    "rating": "10"
+  },
+  {
+    "id": 202,
+    "name": "Feena",
+    "rating": "8.5"
+  },
+  {
+    "id": 203,
+    "name": "Feena (Event)",
+    "rating": "7.0"
+  },
+  {
+    "id": 204,
+    "name": "Feena (Holiday)",
+    "rating": "7.5"
+  },
+  {
+    "id": 205,
+    "name": "Feower",
+    "rating": ""
+  },
+  {
+    "id": 206,
+    "name": "Ferry",
+    "rating": "6.0"
+  },
+  {
+    "id": 207,
+    "name": "Ferry (Grand)",
+    "rating": "9.3"
+  },
+  {
+    "id": 208,
+    "name": "Ferry (Halloween)",
+    "rating": "6.5"
+  },
+  {
+    "id": 209,
+    "name": "Ferry (SSR)",
+    "rating": "9.5"
+  },
+  {
+    "id": 210,
+    "name": "Ferry (Summer)",
+    "rating": "8.0"
+  },
+  {
+    "id": 211,
+    "name": "Fif",
+    "rating": ""
+  },
+  {
+    "id": 212,
+    "name": "Filene",
+    "rating": "9.2"
+  },
+  {
+    "id": 213,
+    "name": "Fiorito",
+    "rating": "9.7"
+  },
+  {
+    "id": 214,
+    "name": "Flesselles",
+    "rating": "5.0"
+  },
+  {
+    "id": 215,
+    "name": "Florence",
+    "rating": "9.3"
+  },
+  {
+    "id": 216,
+    "name": "Forte",
+    "rating": "8.5"
+  },
+  {
+    "id": 217,
+    "name": "Fraux",
+    "rating": ""
+  },
+  {
+    "id": 218,
+    "name": "Freezie",
+    "rating": "9.4"
+  },
+  {
+    "id": 219,
+    "name": "Freyr",
+    "rating": "9.2"
+  },
+  {
+    "id": 220,
+    "name": "Friday (Summer)",
+    "rating": "8.3"
+  },
+  {
+    "id": 221,
+    "name": "Gachapin",
+    "rating": "8.5"
+  },
+  {
+    "id": 222,
+    "name": "Galadar",
+    "rating": "5.0"
+  },
+  {
+    "id": 223,
+    "name": "Galadar (SR)",
+    "rating": "7.5"
+  },
+  {
+    "id": 224,
+    "name": "Garma",
+    "rating": "4.5"
+  },
+  {
+    "id": 225,
+    "name": "Gawain",
+    "rating": "9.2"
+  },
+  {
+    "id": 226,
+    "name": "Gawain (Light)",
+    "rating": "9.4"
+  },
+  {
+    "id": 227,
+    "name": "Gayne",
+    "rating": "8.0"
+  },
+  {
+    "id": 228,
+    "name": "Geisenborger",
+    "rating": ""
+  },
+  {
+    "id": 229,
+    "name": "Gemini Sunrise",
+    "rating": "7.5"
+  },
+  {
+    "id": 230,
+    "name": "Ghandagoza",
+    "rating": "9.0"
+  },
+  {
+    "id": 231,
+    "name": "Ghandagoza (Summer)",
+    "rating": "7.0"
+  },
+  {
+    "id": 232,
+    "name": "Goblin Mage",
+    "rating": "7.0"
+  },
+  {
+    "id": 233,
+    "name": "Golden Knight",
+    "rating": "9.6"
+  },
+  {
+    "id": 234,
+    "name": "Grea",
+    "rating": "9.1"
+  },
+  {
+    "id": 235,
+    "name": "Grea (Event)",
+    "rating": "7.5"
+  },
+  {
+    "id": 236,
+    "name": "Grea (Light)",
+    "rating": "9.4"
+  },
+  {
+    "id": 237,
+    "name": "Grea (Summer)",
+    "rating": "9.4"
+  },
+  {
+    "id": 238,
+    "name": "Grimnir",
+    "rating": "9.5"
+  },
+  {
+    "id": 239,
+    "name": "Grimnir (Valentine)",
+    "rating": "9.9"
+  },
+  {
+    "id": 240,
+    "name": "Haaselia",
+    "rating": ""
+  },
+  {
+    "id": 241,
+    "name": "Hallessena",
+    "rating": "9.2"
+  },
+  {
+    "id": 242,
+    "name": "Hallessena (Halloween)",
+    "rating": "9.5"
+  },
+  {
+    "id": 243,
+    "name": "Halluel and Malluel (Summer)",
+    "rating": "9.6"
+  },
+  {
+    "id": 244,
+    "name": "Haohmaru",
+    "rating": "6.0"
+  },
+  {
+    "id": 245,
+    "name": "Hazen",
+    "rating": "4.0"
+  },
+  {
+    "id": 246,
+    "name": "Hazen (SR)",
+    "rating": "7.0"
+  },
+  {
+    "id": 247,
+    "name": "Helel ben Shalem",
+    "rating": "9.5"
+  },
+  {
+    "id": 248,
+    "name": "Helel ben Shalem (Summer)",
+    "rating": "9.8"
+  },
+  {
+    "id": 249,
+    "name": "Heles",
+    "rating": "9.3"
+  },
+  {
+    "id": 250,
+    "name": "Heles (Summer)",
+    "rating": "9.0"
+  },
+  {
+    "id": 251,
+    "name": "Heles (Wind)",
+    "rating": "9.2"
+  },
+  {
+    "id": 252,
+    "name": "Helnar",
+    "rating": "8.0"
+  },
+  {
+    "id": 253,
+    "name": "Helnar (Summer)",
+    "rating": "6.5"
+  },
+  {
+    "id": 254,
+    "name": "Herja",
+    "rating": "4.5"
+  },
+  {
+    "id": 255,
+    "name": "Herja (SR)",
+    "rating": "7.0"
+  },
+  {
+    "id": 256,
+    "name": "Herja (SSR)",
+    "rating": "8.5"
+  },
+  {
+    "id": 257,
+    "name": "Hiro Ryugasaki",
+    "rating": "8.0"
+  },
+  {
+    "id": 258,
+    "name": "Illnott",
+    "rating": "9.3"
+  },
+  {
+    "id": 259,
+    "name": "Illnott (Summer)",
+    "rating": "9.9"
+  },
+  {
+    "id": 260,
+    "name": "Ilsa",
+    "rating": "8.5"
+  },
+  {
+    "id": 261,
+    "name": "Ilsa (Light)",
+    "rating": "9.4"
+  },
+  {
+    "id": 262,
+    "name": "Ilsa (Summer)",
+    "rating": "9.2"
+  },
+  {
+    "id": 263,
+    "name": "Io",
+    "rating": "7.5"
+  },
+  {
+    "id": 264,
+    "name": "Io (Grand)",
+    "rating": "9.8"
+  },
+  {
+    "id": 265,
+    "name": "Io (Summer)",
+    "rating": "9.0"
+  },
+  {
+    "id": 266,
+    "name": "Ippatsu",
+    "rating": "5.0"
+  },
+  {
+    "id": 267,
+    "name": "Ippatsu (SR)",
+    "rating": "6.5"
+  },
+  {
+    "id": 268,
+    "name": "Ippatsu (SSR)",
+    "rating": "9.6"
+  },
+  {
+    "id": 269,
+    "name": "Ippatsu (Summer)",
+    "rating": "5.5"
+  },
+  {
+    "id": 270,
+    "name": "Isaac",
+    "rating": "9.5"
+  },
+  {
+    "id": 271,
+    "name": "Izmir",
+    "rating": "9.2"
+  },
+  {
+    "id": 272,
+    "name": "Izmir (Summer)",
+    "rating": "8.5"
+  },
+  {
+    "id": 273,
+    "name": "Izmir (Yukata)",
+    "rating": "9.5"
+  },
+  {
+    "id": 274,
+    "name": "Izuminokami Kanesada",
+    "rating": "7.5"
+  },
+  {
+    "id": 275,
+    "name": "Jamil",
+    "rating": "8.0"
+  },
+  {
+    "id": 276,
+    "name": "Jamil (Dark)",
+    "rating": "7.5"
+  },
+  {
+    "id": 277,
+    "name": "Jasmine",
+    "rating": "4.0"
+  },
+  {
+    "id": 278,
+    "name": "Jasmine (SR)",
+    "rating": "8.0"
+  },
+  {
+    "id": 279,
+    "name": "Jeanne d'Arc",
+    "rating": "9.4"
+  },
+  {
+    "id": 280,
+    "name": "Jeanne d'Arc (Dark)",
+    "rating": "9.1"
+  },
+  {
+    "id": 281,
+    "name": "Jeanne d'Arc (Grand)",
+    "rating": "9.8"
+  },
+  {
+    "id": 282,
+    "name": "Jeanne d'Arc (SR)",
+    "rating": "8.0"
+  },
+  {
+    "id": 283,
+    "name": "Jeanne d'Arc (Summer)",
+    "rating": "9.2"
+  },
+  {
+    "id": 284,
+    "name": "Jessica",
+    "rating": "7.0"
+  },
+  {
+    "id": 285,
+    "name": "Jessica (Event)",
+    "rating": "6.5"
+  },
+  {
+    "id": 286,
+    "name": "Jessica (Summer)",
+    "rating": "6.0"
+  },
+  {
+    "id": 287,
+    "name": "Jessica (Yukata)",
+    "rating": "9.4"
+  },
+  {
+    "id": 288,
+    "name": "Jin",
+    "rating": "8.5"
+  },
+  {
+    "id": 289,
+    "name": "Jin (Event)",
+    "rating": "7.0"
+  },
+  {
+    "id": 290,
+    "name": "Jin (Ronin)",
+    "rating": "7.5"
+  },
+  {
+    "id": 291,
+    "name": "Jin (Summer)",
+    "rating": "7.0"
+  },
+  {
+    "id": 292,
+    "name": "Jin (Wind)",
+    "rating": "6.5"
+  },
+  {
+    "id": 293,
+    "name": "J.J.",
+    "rating": "6.0"
+  },
+  {
+    "id": 294,
+    "name": "J.J. (Summer)",
+    "rating": "7.0"
+  },
+  {
+    "id": 295,
+    "name": "Joel",
+    "rating": "5.0"
+  },
+  {
+    "id": 296,
+    "name": "Joel (SR)",
+    "rating": "7.5"
+  },
+  {
+    "id": 297,
+    "name": "Johann",
+    "rating": "7.0"
+  },
+  {
+    "id": 298,
+    "name": "Johann (Event)",
+    "rating": "6.5"
+  },
+  {
+    "id": 299,
+    "name": "Joker",
+    "rating": "9.0"
+  },
+  {
+    "id": 300,
+    "name": "Joy (Event)",
+    "rating": "7.0"
+  },
+  {
+    "id": 301,
+    "name": "Juliet",
+    "rating": "9.6"
+  },
+  {
+    "id": 302,
+    "name": "Juliet (Water)",
+    "rating": "9.5"
+  },
+  {
+    "id": 303,
+    "name": "Juri",
+    "rating": "8.5"
+  },
+  {
+    "id": 304,
+    "name": "Juri (Event)",
+    "rating": "6.5"
+  },
+  {
+    "id": 305,
+    "name": "Kaede Takagaki",
+    "rating": "8.5"
+  },
+  {
+    "id": 306,
+    "name": "Kallen Kouzuki",
+    "rating": "9.0"
+  },
+  {
+    "id": 307,
+    "name": "Kanako Mimura",
+    "rating": "6.5"
+  },
+  {
+    "id": 308,
+    "name": "Kaoru Sakuraba",
+    "rating": "6.5"
+  },
+  {
+    "id": 309,
+    "name": "Karin",
+    "rating": "7.0"
+  },
+  {
+    "id": 310,
+    "name": "Karteira",
+    "rating": "5.0"
+  },
+  {
+    "id": 311,
+    "name": "Karteira (SR)",
+    "rating": "7.0"
+  },
+  {
+    "id": 312,
+    "name": "Karva",
+    "rating": "5.0"
+  },
+  {
+    "id": 313,
+    "name": "Karva (SR)",
+    "rating": "6.5"
+  },
+  {
+    "id": 314,
+    "name": "Karyl",
+    "rating": "8.5"
+  },
+  {
+    "id": 315,
+    "name": "Katalina",
+    "rating": "8.0"
+  },
+  {
+    "id": 316,
+    "name": "Katalina (Grand)",
+    "rating": "9.4"
+  },
+  {
+    "id": 317,
+    "name": "Katalina (Promo)",
+    "rating": "8.5"
+  },
+  {
+    "id": 318,
+    "name": "Katalina (Summer)",
+    "rating": "8.0"
+  },
+  {
+    "id": 319,
+    "name": "Katzelia",
+    "rating": ""
+  },
+  {
+    "id": 320,
+    "name": "Keehar",
+    "rating": "7.0"
+  },
+  {
+    "id": 321,
+    "name": "Kokkoro",
+    "rating": "9.2"
+  },
+  {
+    "id": 322,
+    "name": "Kolulu",
+    "rating": "9.4"
+  },
+  {
+    "id": 323,
+    "name": "Kolulu (Summer)",
+    "rating": "9.6"
+  },
+  {
+    "id": 324,
+    "name": "Korwa",
+    "rating": "8.5"
+  },
+  {
+    "id": 325,
+    "name": "Korwa (SR)",
+    "rating": "7.0"
+  },
+  {
+    "id": 326,
+    "name": "Korwa (Summer)",
+    "rating": "10"
+  },
+  {
+    "id": 327,
+    "name": "Kou",
+    "rating": "9.1"
+  },
+  {
+    "id": 328,
+    "name": "Koume Shirasaka",
+    "rating": "7.0"
+  },
+  {
+    "id": 329,
+    "name": "Krugne",
+    "rating": "3.5"
+  },
+  {
+    "id": 330,
+    "name": "Krugne (SR)",
+    "rating": "7.5"
+  },
+  {
+    "id": 331,
+    "name": "Kumbhira",
+    "rating": "9.8"
+  },
+  {
+    "id": 332,
+    "name": "Kumbhira (Event)",
+    "rating": "7.5"
+  },
+  {
+    "id": 333,
+    "name": "Kumbhira (Summer)",
+    "rating": "9.7"
+  },
+  {
+    "id": 334,
+    "name": "Kyojuro Rengoku",
+    "rating": "9.3"
+  },
+  {
+    "id": 335,
+    "name": "La Coiffe",
+    "rating": "5.5"
+  },
+  {
+    "id": 336,
+    "name": "La Coiffe (SR)",
+    "rating": "7.0"
+  },
+  {
+    "id": 337,
+    "name": "Ladiva",
+    "rating": "7.0"
+  },
+  {
+    "id": 338,
+    "name": "Ladiva (Holiday)",
+    "rating": "6.5"
+  },
+  {
+    "id": 339,
+    "name": "Ladiva (SSR)",
+    "rating": "9.5"
+  },
+  {
+    "id": 340,
+    "name": "Ladiva (Valentine)",
+    "rating": "9.3"
+  },
+  {
+    "id": 341,
+    "name": "Lady Grey",
+    "rating": "9.3"
+  },
+  {
+    "id": 342,
+    "name": "Lady Grey (Halloween)",
+    "rating": "9.4"
+  },
+  {
+    "id": 343,
+    "name": "Lady Katapillar and Vira",
+    "rating": "9.0"
+  },
+  {
+    "id": 344,
+    "name": "Laguna",
+    "rating": "6.5"
+  },
+  {
+    "id": 345,
+    "name": "Laguna (SSR)",
+    "rating": "8.5"
+  },
+  {
+    "id": 346,
+    "name": "Lamretta",
+    "rating": "7.0"
+  },
+  {
+    "id": 347,
+    "name": "Lamretta (R)",
+    "rating": "4.0"
+  },
+  {
+    "id": 348,
+    "name": "Lamretta (SSR)",
+    "rating": "9.4"
+  },
+  {
+    "id": 349,
+    "name": "Lamretta (Water)",
+    "rating": "6.5"
+  },
+  {
+    "id": 350,
+    "name": "Lancelot",
+    "rating": "9.3"
+  },
+  {
+    "id": 351,
+    "name": "Lancelot and Vane",
+    "rating": "9.3"
+  },
+  {
+    "id": 352,
+    "name": "Lancelot and Vane (Summer)",
+    "rating": "8.0"
+  },
+  {
+    "id": 353,
+    "name": "Lancelot (Event)",
+    "rating": "6.5"
+  },
+  {
+    "id": 354,
+    "name": "Lancelot (Grand)",
+    "rating": "9.7"
+  },
+  {
+    "id": 355,
+    "name": "Lancelot (Wind)",
+    "rating": "9.2"
+  },
+  {
+    "id": 356,
+    "name": "Lecia",
+    "rating": "5.5"
+  },
+  {
+    "id": 357,
+    "name": "Lecia (Grand)",
+    "rating": "9.4"
+  },
+  {
+    "id": 358,
+    "name": "Lecia (Summer)",
+    "rating": "6.5"
+  },
+  {
+    "id": 359,
+    "name": "Lecia (Water)",
+    "rating": "9.4"
+  },
+  {
+    "id": 360,
+    "name": "Lelouch Lamperouge",
+    "rating": "8.5"
+  },
+  {
+    "id": 361,
+    "name": "Lennah",
+    "rating": "9.0"
+  },
+  {
+    "id": 362,
+    "name": "Lennah (Earth)",
+    "rating": "9.5"
+  },
+  {
+    "id": 363,
+    "name": "Leona",
+    "rating": "7.0"
+  },
+  {
+    "id": 364,
+    "name": "Leona (Grand)",
+    "rating": "9.4"
+  },
+  {
+    "id": 365,
+    "name": "Leona (Yukata)",
+    "rating": "7.5"
+  },
+  {
+    "id": 366,
+    "name": "Leonora",
+    "rating": "4.0"
+  },
+  {
+    "id": 367,
+    "name": "Levi",
+    "rating": "9.0"
+  },
+  {
+    "id": 368,
+    "name": "Levin Sisters",
+    "rating": "9.1"
+  },
+  {
+    "id": 369,
+    "name": "Lich",
+    "rating": "10"
+  },
+  {
+    "id": 370,
+    "name": "Lilele",
+    "rating": "8.0"
+  },
+  {
+    "id": 371,
+    "name": "Lilele (Fire)",
+    "rating": "8.5"
+  },
+  {
+    "id": 372,
+    "name": "Lilele (Summer)",
+    "rating": "6.5"
+  },
+  {
+    "id": 373,
+    "name": "Lily",
+    "rating": "9.7"
+  },
+  {
+    "id": 374,
+    "name": "Lily (Event)",
+    "rating": "7.5"
+  },
+  {
+    "id": 375,
+    "name": "Lily (Holiday)",
+    "rating": "9.3"
+  },
+  {
+    "id": 376,
+    "name": "Lina",
+    "rating": "7.5"
+  },
+  {
+    "id": 377,
+    "name": "Lobelia",
+    "rating": ""
+  },
+  {
+    "id": 378,
+    "name": "Lowain",
+    "rating": "5.5"
+  },
+  {
+    "id": 379,
+    "name": "Lowain (Event)",
+    "rating": "7.5"
+  },
+  {
+    "id": 380,
+    "name": "Lowain (Summer)",
+    "rating": "5.0"
+  },
+  {
+    "id": 381,
+    "name": "Lucio",
+    "rating": "9.5"
+  },
+  {
+    "id": 382,
+    "name": "Lucio (Summer)",
+    "rating": "9.7"
+  },
+  {
+    "id": 383,
+    "name": "Lucius",
+    "rating": "7.0"
+  },
+  {
+    "id": 384,
+    "name": "Lucius (Fire)",
+    "rating": "7.0"
+  },
+  {
+    "id": 385,
+    "name": "Lucius (SSR)",
+    "rating": "9.3"
+  },
+  {
+    "id": 386,
+    "name": "Ludmila",
+    "rating": "5.0"
+  },
+  {
+    "id": 387,
+    "name": "Luna",
+    "rating": "6.5"
+  },
+  {
+    "id": 388,
+    "name": "Lunalu",
+    "rating": "6.0"
+  },
+  {
+    "id": 389,
+    "name": "Lunalu (Light)",
+    "rating": "9.4"
+  },
+  {
+    "id": 390,
+    "name": "Lunalu (SSR)",
+    "rating": "9.3"
+  },
+  {
+    "id": 391,
+    "name": "Lunalu (Summer)",
+    "rating": "6.0"
+  },
+  {
+    "id": 392,
+    "name": "Lyria (Event)",
+    "rating": "9.1"
+  },
+  {
+    "id": 393,
+    "name": "Macula Marius",
+    "rating": "9.2"
+  },
+  {
+    "id": 394,
+    "name": "Magisa",
+    "rating": "9.2"
+  },
+  {
+    "id": 395,
+    "name": "Magisa (Holiday)",
+    "rating": "9.5"
+  },
+  {
+    "id": 396,
+    "name": "Mahira",
+    "rating": "9.8"
+  },
+  {
+    "id": 397,
+    "name": "Mahira (Event)",
+    "rating": "7.5"
+  },
+  {
+    "id": 398,
+    "name": "Mahira (Holiday)",
+    "rating": "9.7"
+  },
+  {
+    "id": 399,
+    "name": "Malinda (Event)",
+    "rating": "0"
+  },
+  {
+    "id": 400,
+    "name": "Mariah",
+    "rating": "6.5"
+  },
+  {
+    "id": 401,
+    "name": "Maria Theresa",
+    "rating": ""
+  },
+  {
+    "id": 402,
+    "name": "Marquiares",
+    "rating": "8.5"
+  },
+  {
+    "id": 403,
+    "name": "Mary",
+    "rating": "4.0"
+  },
+  {
+    "id": 404,
+    "name": "Mary (Holiday)",
+    "rating": "9.4"
+  },
+  {
+    "id": 405,
+    "name": "Mary (SR)",
+    "rating": "6.5"
+  },
+  {
+    "id": 406,
+    "name": "Mary (Summer)",
+    "rating": "4.5"
+  },
+  {
+    "id": 407,
+    "name": "Medusa",
+    "rating": "9.2"
+  },
+  {
+    "id": 408,
+    "name": "Medusa (Promo)",
+    "rating": "8.0"
+  },
+  {
+    "id": 409,
+    "name": "Medusa (Summer)",
+    "rating": "9.8"
+  },
+  {
+    "id": 410,
+    "name": "Medusa (Valentine)",
+    "rating": "9.3"
+  },
+  {
+    "id": 411,
+    "name": "Meg (Event)",
+    "rating": "8.0"
+  },
+  {
+    "id": 412,
+    "name": "Meg (Summer)",
+    "rating": "9.7"
+  },
+  {
+    "id": 413,
+    "name": "Melissabelle",
+    "rating": "9.0"
+  },
+  {
+    "id": 414,
+    "name": "Melissabelle (Valentine)",
+    "rating": "9.5"
+  },
+  {
+    "id": 415,
+    "name": "Melleau",
+    "rating": "9.4"
+  },
+  {
+    "id": 416,
+    "name": "Meteon (Event)",
+    "rating": "8.0"
+  },
+  {
+    "id": 417,
+    "name": "Meteon (Holiday)",
+    "rating": "9.5"
+  },
+  {
+    "id": 418,
+    "name": "Metera",
+    "rating": "9.1"
+  },
+  {
+    "id": 419,
+    "name": "Metera (Fire)",
+    "rating": "9.4"
+  },
+  {
+    "id": 420,
+    "name": "Metera (Holiday)",
+    "rating": "9.4"
+  },
+  {
+    "id": 421,
+    "name": "Metera (Summer)",
+    "rating": "9.5"
+  },
+  {
+    "id": 422,
+    "name": "Mika Jougasaki",
+    "rating": "7.5"
+  },
+  {
+    "id": 423,
+    "name": "Mikasa",
+    "rating": "8.0"
+  },
+  {
+    "id": 424,
+    "name": "Mikazuki Munechika",
+    "rating": "8.5"
+  },
+  {
+    "id": 425,
+    "name": "Miku Maekawa",
+    "rating": "7.5"
+  },
+  {
+    "id": 426,
+    "name": "Milla Maxwell",
+    "rating": "6.5"
+  },
+  {
+    "id": 427,
+    "name": "Milleore",
+    "rating": "6.5"
+  },
+  {
+    "id": 428,
+    "name": "Milleore and Sahli Lao",
+    "rating": "9.3"
+  },
+  {
+    "id": 429,
+    "name": "Mimlemel",
+    "rating": "7.0"
+  },
+  {
+    "id": 430,
+    "name": "Mimlemel and Pun-Kin (Halloween)",
+    "rating": "7.0"
+  },
+  {
+    "id": 431,
+    "name": "Mimlemel and Stumpeye",
+    "rating": "7.5"
+  },
+  {
+    "id": 432,
+    "name": "Mimlemel (Summer)",
+    "rating": "10"
+  },
+  {
+    "id": 433,
+    "name": "Mimori Amamiya",
+    "rating": "9.0"
+  },
+  {
+    "id": 434,
+    "name": "Mina",
+    "rating": "7.5"
+  },
+  {
+    "id": 435,
+    "name": "Minami Nitta",
+    "rating": "8.0"
+  },
+  {
+    "id": 436,
+    "name": "Mio Honda",
+    "rating": "7.0"
+  },
+  {
+    "id": 437,
+    "name": "Mireille and Risette",
+    "rating": "9.4"
+  },
+  {
+    "id": 438,
+    "name": "Miria Akagi",
+    "rating": "7.5"
+  },
+  {
+    "id": 439,
+    "name": "Mirin",
+    "rating": "9.0"
+  },
+  {
+    "id": 440,
+    "name": "Mirin (Holiday)",
+    "rating": "9.4"
+  },
+  {
+    "id": 441,
+    "name": "Mirin (Light)",
+    "rating": "8.0"
+  },
+  {
+    "id": 442,
+    "name": "Mishra",
+    "rating": "6.5"
+  },
+  {
+    "id": 443,
+    "name": "Mishra (SSR)",
+    "rating": "9.3"
+  },
+  {
+    "id": 444,
+    "name": "Mizuki Kawashima",
+    "rating": "7.0"
+  },
+  {
+    "id": 445,
+    "name": "Monika",
+    "rating": "9.0"
+  },
+  {
+    "id": 446,
+    "name": "Monika (Grand)",
+    "rating": "9.5"
+  },
+  {
+    "id": 447,
+    "name": "Monika (Valentine)",
+    "rating": "9.6"
+  },
+  {
+    "id": 448,
+    "name": "Morphe and Phoebe (Event)",
+    "rating": "8.0"
+  },
+  {
+    "id": 449,
+    "name": "Morrigna",
+    "rating": "9.2"
+  },
+  {
+    "id": 450,
+    "name": "Ms. Miranda",
+    "rating": "9.5"
+  },
+  {
+    "id": 451,
+    "name": "Mugen",
+    "rating": "9.4"
+  },
+  {
+    "id": 452,
+    "name": "Naga",
+    "rating": "7.0"
+  },
+  {
+    "id": 453,
+    "name": "Nakoruru",
+    "rating": "6.5"
+  },
+  {
+    "id": 454,
+    "name": "Naoise",
+    "rating": "9.3"
+  },
+  {
+    "id": 455,
+    "name": "Naoise (Event)",
+    "rating": "7.5"
+  },
+  {
+    "id": 456,
+    "name": "Naoise (Fire)",
+    "rating": "9.3"
+  },
+  {
+    "id": 457,
+    "name": "Naoise (Promo)",
+    "rating": "7.5"
+  },
+  {
+    "id": 458,
+    "name": "Naoise (Summer)",
+    "rating": "9.2"
+  },
+  {
+    "id": 459,
+    "name": "Narmaya",
+    "rating": "9.5"
+  },
+  {
+    "id": 460,
+    "name": "Narmaya (Grand)",
+    "rating": "10"
+  },
+  {
+    "id": 461,
+    "name": "Narmaya (Holiday)",
+    "rating": "10"
+  },
+  {
+    "id": 462,
+    "name": "Narmaya (Summer)",
+    "rating": "9.4"
+  },
+  {
+    "id": 463,
+    "name": "Narmaya (Valentine)",
+    "rating": "6.0"
+  },
+  {
+    "id": 464,
+    "name": "Narmaya (Yukata)",
+    "rating": "9.6"
+  },
+  {
+    "id": 465,
+    "name": "Nectar",
+    "rating": "9.4"
+  },
+  {
+    "id": 466,
+    "name": "Nehan",
+    "rating": "10"
+  },
+  {
+    "id": 467,
+    "name": "Nemone",
+    "rating": "8.0"
+  },
+  {
+    "id": 468,
+    "name": "Nemone (Holiday)",
+    "rating": "9.8"
+  },
+  {
+    "id": 469,
+    "name": "Nene",
+    "rating": "4.5"
+  },
+  {
+    "id": 470,
+    "name": "New Generations",
+    "rating": "9.3"
+  },
+  {
+    "id": 471,
+    "name": "Nezahualpilli",
+    "rating": "9.4"
+  },
+  {
+    "id": 472,
+    "name": "Nezahualpilli (SR)",
+    "rating": "8.5"
+  },
+  {
+    "id": 473,
+    "name": "Nezha",
+    "rating": "8.5"
+  },
+  {
+    "id": 474,
+    "name": "Nicholas",
+    "rating": "9.1"
+  },
+  {
+    "id": 475,
+    "name": "Nicholas (Event)",
+    "rating": "8.0"
+  },
+  {
+    "id": 476,
+    "name": "Nicholas (Light)",
+    "rating": "9.5"
+  },
+  {
+    "id": 477,
+    "name": "Nier",
+    "rating": ""
+  },
+  {
+    "id": 478,
+    "name": "Nina Drango",
+    "rating": "7.5"
+  },
+  {
+    "id": 479,
+    "name": "Niyon",
+    "rating": ""
+  },
+  {
+    "id": 480,
+    "name": "Noa",
+    "rating": "7.5"
+  },
+  {
+    "id": 481,
+    "name": "Noa (Grand)",
+    "rating": "9.5"
+  },
+  {
+    "id": 482,
+    "name": "Nobita",
+    "rating": "9.3"
+  },
+  {
+    "id": 483,
+    "name": "Norcel",
+    "rating": "4.5"
+  },
+  {
+    "id": 484,
+    "name": "Novei",
+    "rating": "6.5"
+  },
+  {
+    "id": 485,
+    "name": "Olivia",
+    "rating": "9.6"
+  },
+  {
+    "id": 486,
+    "name": "Olivia (Event)",
+    "rating": "7.5"
+  },
+  {
+    "id": 487,
+    "name": "Orchid",
+    "rating": "9.7"
+  },
+  {
+    "id": 488,
+    "name": "Owen",
+    "rating": "8.5"
+  },
+  {
+    "id": 489,
+    "name": "Pamela",
+    "rating": "6.5"
+  },
+  {
+    "id": 490,
+    "name": "Paris (Event)",
+    "rating": "6.0"
+  },
+  {
+    "id": 491,
+    "name": "Pavidus",
+    "rating": "4.0"
+  },
+  {
+    "id": 492,
+    "name": "Pecorine",
+    "rating": "8.5"
+  },
+  {
+    "id": 493,
+    "name": "Pengy",
+    "rating": "6.5"
+  },
+  {
+    "id": 494,
+    "name": "Pengy (Event)",
+    "rating": "5.5"
+  },
+  {
+    "id": 495,
+    "name": "Pengy (SSR)",
+    "rating": "9.6"
+  },
+  {
+    "id": 496,
+    "name": "Percival",
+    "rating": "9.1"
+  },
+  {
+    "id": 497,
+    "name": "Percival (Event)",
+    "rating": "7.0"
+  },
+  {
+    "id": 498,
+    "name": "Percival (Light)",
+    "rating": "9.2"
+  },
+  {
+    "id": 499,
+    "name": "Percival (Summer)",
+    "rating": "9.0"
+  },
+  {
+    "id": 500,
+    "name": "Petra",
+    "rating": "4.5"
+  },
+  {
+    "id": 501,
+    "name": "Petra (SSR)",
+    "rating": "9.6"
+  },
+  {
+    "id": 502,
+    "name": "Philosophia",
+    "rating": "5.0"
+  },
+  {
+    "id": 503,
+    "name": "Philosophia (SR)",
+    "rating": "7.0"
+  },
+  {
+    "id": 504,
+    "name": "Pholia",
+    "rating": "9.3"
+  },
+  {
+    "id": 505,
+    "name": "Poseidon",
+    "rating": "10"
+  },
+  {
+    "id": 506,
+    "name": "Predator",
+    "rating": "8.0"
+  },
+  {
+    "id": 507,
+    "name": "Predator (SSR)",
+    "rating": "9.7"
+  },
+  {
+    "id": 508,
+    "name": "Rackam",
+    "rating": "6.5"
+  },
+  {
+    "id": 509,
+    "name": "Rackam (Grand)",
+    "rating": "9.2"
+  },
+  {
+    "id": 510,
+    "name": "Rackam (Holiday)",
+    "rating": "6.5"
+  },
+  {
+    "id": 511,
+    "name": "Randall",
+    "rating": "5.5"
+  },
+  {
+    "id": 512,
+    "name": "Randall (SR)",
+    "rating": "7.0"
+  },
+  {
+    "id": 513,
+    "name": "Randall (SSR)",
+    "rating": "9.4"
+  },
+  {
+    "id": 514,
+    "name": "Ranko Kanzaki",
+    "rating": "7.0"
+  },
+  {
+    "id": 515,
+    "name": "Rashid",
+    "rating": "7.0"
+  },
+  {
+    "id": 516,
+    "name": "Razia",
+    "rating": "8.5"
+  },
+  {
+    "id": 517,
+    "name": "Razia (SR)",
+    "rating": "7.5"
+  },
+  {
+    "id": 518,
+    "name": "Redluck",
+    "rating": "7.0"
+  },
+  {
+    "id": 519,
+    "name": "Rei",
+    "rating": "9.8"
+  },
+  {
+    "id": 520,
+    "name": "Reinhardtzar",
+    "rating": "6.5"
+  },
+  {
+    "id": 521,
+    "name": "Reinhardtzar (Grand)",
+    "rating": "9.4"
+  },
+  {
+    "id": 522,
+    "name": "Richard",
+    "rating": "3.0"
+  },
+  {
+    "id": 523,
+    "name": "Richard (SR)",
+    "rating": "8.0"
+  },
+  {
+    "id": 524,
+    "name": "Rika Jougasaki",
+    "rating": "7.0"
+  },
+  {
+    "id": 525,
+    "name": "Rin Shibuya",
+    "rating": "7.0"
+  },
+  {
+    "id": 526,
+    "name": "Rita",
+    "rating": "4.5"
+  },
+  {
+    "id": 527,
+    "name": "Robertina",
+    "rating": "6.5"
+  },
+  {
+    "id": 528,
+    "name": "Robomi",
+    "rating": "9.4"
+  },
+  {
+    "id": 529,
+    "name": "Robomi (Event)",
+    "rating": "6.0"
+  },
+  {
+    "id": 530,
+    "name": "Romeo",
+    "rating": "9.5"
+  },
+  {
+    "id": 531,
+    "name": "Romeo (Event)",
+    "rating": "6.0"
+  },
+  {
+    "id": 532,
+    "name": "Rosamia",
+    "rating": "4.5"
+  },
+  {
+    "id": 533,
+    "name": "Rosamia (SR)",
+    "rating": "7.0"
+  },
+  {
+    "id": 534,
+    "name": "Rosamia (SSR)",
+    "rating": "9.0"
+  },
+  {
+    "id": 535,
+    "name": "Rosamia (Yukata)",
+    "rating": "9.4"
+  },
+  {
+    "id": 536,
+    "name": "Rosetta",
+    "rating": "5.5"
+  },
+  {
+    "id": 537,
+    "name": "Rosetta (Grand)",
+    "rating": "9.5"
+  },
+  {
+    "id": 538,
+    "name": "Rosetta (Halloween)",
+    "rating": "9.5"
+  },
+  {
+    "id": 539,
+    "name": "Rosetta (Holiday)",
+    "rating": "9.1"
+  },
+  {
+    "id": 540,
+    "name": "Rosetta (Summer)",
+    "rating": "9.0"
+  },
+  {
+    "id": 541,
+    "name": "Rosine",
+    "rating": "5.0"
+  },
+  {
+    "id": 542,
+    "name": "Rosine (SR)",
+    "rating": "7.0"
+  },
+  {
+    "id": 543,
+    "name": "Ryan",
+    "rating": "4.5"
+  },
+  {
+    "id": 544,
+    "name": "Ryan (SR)",
+    "rating": "6.5"
+  },
+  {
+    "id": 545,
+    "name": "Ryu",
+    "rating": "6.5"
+  },
+  {
+    "id": 546,
+    "name": "Sachiko Koshimizu",
+    "rating": "6.0"
+  },
+  {
+    "id": 547,
+    "name": "Sahli Lao",
+    "rating": "7.0"
+  },
+  {
+    "id": 548,
+    "name": "Sakura Kinomoto",
+    "rating": "8.5"
+  },
+  {
+    "id": 549,
+    "name": "Sakura Shinguji",
+    "rating": "6.5"
+  },
+  {
+    "id": 550,
+    "name": "Sandalphon",
+    "rating": "10"
+  },
+  {
+    "id": 551,
+    "name": "Sandalphon (Event)",
+    "rating": "9.1"
+  },
+  {
+    "id": 552,
+    "name": "Sandalphon (Summer)",
+    "rating": "9.5"
+  },
+  {
+    "id": 553,
+    "name": "Sara",
+    "rating": "9.2"
+  },
+  {
+    "id": 554,
+    "name": "Sara (Event)",
+    "rating": "4.5"
+  },
+  {
+    "id": 555,
+    "name": "Sara (Light)",
+    "rating": "9.4"
+  },
+  {
+    "id": 556,
+    "name": "Sara (Summer)",
+    "rating": "7.5"
+  },
+  {
+    "id": 557,
+    "name": "Sarunan",
+    "rating": "9.3"
+  },
+  {
+    "id": 558,
+    "name": "Sarunan (Dark)",
+    "rating": "8.0"
+  },
+  {
+    "id": 559,
+    "name": "Sarya",
+    "rating": "6.0"
+  },
+  {
+    "id": 560,
+    "name": "Sarya (Event)",
+    "rating": "6.0"
+  },
+  {
+    "id": 561,
+    "name": "Satyr",
+    "rating": "9.3"
+  },
+  {
+    "id": 562,
+    "name": "Satyr (Earth)",
+    "rating": "9.8"
+  },
+  {
+    "id": 563,
+    "name": "Scathacha",
+    "rating": "9.4"
+  },
+  {
+    "id": 564,
+    "name": "Scathacha (Valentine)",
+    "rating": "9.3"
+  },
+  {
+    "id": 565,
+    "name": "Selfira",
+    "rating": "9.0"
+  },
+  {
+    "id": 566,
+    "name": "Selfira (Event)",
+    "rating": "8.0"
+  },
+  {
+    "id": 567,
+    "name": "Sen",
+    "rating": "7.0"
+  },
+  {
+    "id": 568,
+    "name": "Sen (Holiday)",
+    "rating": "7.5"
+  },
+  {
+    "id": 569,
+    "name": "Sen (SSR)",
+    "rating": "8.5"
+  },
+  {
+    "id": 570,
+    "name": "Seofon",
+    "rating": ""
+  },
+  {
+    "id": 571,
+    "name": "Seox",
+    "rating": ""
+  },
+  {
+    "id": 572,
+    "name": "Seox (Event)",
+    "rating": "9.0"
+  },
+  {
+    "id": 573,
+    "name": "Seruel",
+    "rating": "9.2"
+  },
+  {
+    "id": 574,
+    "name": "Seruel (Holiday)",
+    "rating": "9.2"
+  },
+  {
+    "id": 575,
+    "name": "Sevastien",
+    "rating": "7.5"
+  },
+  {
+    "id": 576,
+    "name": "Sevilbarra",
+    "rating": "8.5"
+  },
+  {
+    "id": 577,
+    "name": "Sevilbarra (Event)",
+    "rating": "8.0"
+  },
+  {
+    "id": 578,
+    "name": "Shao",
+    "rating": "8.0"
+  },
+  {
+    "id": 579,
+    "name": "Shiki Ichinose",
+    "rating": "7.5"
+  },
+  {
+    "id": 580,
+    "name": "Shinobu Kocho",
+    "rating": "9.2"
+  },
+  {
+    "id": 581,
+    "name": "Shinsengumi",
+    "rating": "9.3"
+  },
+  {
+    "id": 582,
+    "name": "Shion",
+    "rating": "9.5"
+  },
+  {
+    "id": 583,
+    "name": "Shitori",
+    "rating": "9.1"
+  },
+  {
+    "id": 584,
+    "name": "Shiva",
+    "rating": "9.5"
+  },
+  {
+    "id": 585,
+    "name": "Shiva (Summer)",
+    "rating": "9.6"
+  },
+  {
+    "id": 586,
+    "name": "Sho",
+    "rating": "9.5"
+  },
+  {
+    "id": 587,
+    "name": "Shura",
+    "rating": "9.3"
+  },
+  {
+    "id": 588,
+    "name": "Siegfried",
+    "rating": "9.4"
+  },
+  {
+    "id": 589,
+    "name": "Siegfried (Fire)",
+    "rating": "9.6"
+  },
+  {
+    "id": 590,
+    "name": "Siegfried (Summer)",
+    "rating": "9.3"
+  },
+  {
+    "id": 591,
+    "name": "Siegfried (Yukata)",
+    "rating": "9.0"
+  },
+  {
+    "id": 592,
+    "name": "Sig",
+    "rating": "7.0"
+  },
+  {
+    "id": 593,
+    "name": "Sig (Event)",
+    "rating": "6.0"
+  },
+  {
+    "id": 594,
+    "name": "Silva",
+    "rating": "9.2"
+  },
+  {
+    "id": 595,
+    "name": "Silva (Light)",
+    "rating": "9.3"
+  },
+  {
+    "id": 596,
+    "name": "Silva (Summer)",
+    "rating": "9.3"
+  },
+  {
+    "id": 597,
+    "name": "Silva (Yukata)",
+    "rating": "9.5"
+  },
+  {
+    "id": 598,
+    "name": "Skull",
+    "rating": "8.5"
+  },
+  {
+    "id": 599,
+    "name": "Skull and Balurga",
+    "rating": "9.5"
+  },
+  {
+    "id": 600,
+    "name": "Skull (Event)",
+    "rating": "6.5"
+  },
+  {
+    "id": 601,
+    "name": "Societte",
+    "rating": "9.5"
+  },
+  {
+    "id": 602,
+    "name": "Societte (Fire)",
+    "rating": "8.5"
+  },
+  {
+    "id": 603,
+    "name": "Societte (Wind)",
+    "rating": "9.3"
+  },
+  {
+    "id": 604,
+    "name": "Sophia",
+    "rating": "9.0"
+  },
+  {
+    "id": 605,
+    "name": "Sophia (SR)",
+    "rating": "7.5"
+  },
+  {
+    "id": 606,
+    "name": "Sophia (Water)",
+    "rating": "9.4"
+  },
+  {
+    "id": 607,
+    "name": "Sophie",
+    "rating": "6.5"
+  },
+  {
+    "id": 608,
+    "name": "Soriz",
+    "rating": "7.5"
+  },
+  {
+    "id": 609,
+    "name": "Soriz (Event)",
+    "rating": "6.5"
+  },
+  {
+    "id": 610,
+    "name": "Soriz (SSR)",
+    "rating": "9.7"
+  },
+  {
+    "id": 611,
+    "name": "Special Week, Silence Suzuka, and Tokai Teio",
+    "rating": "9.2"
+  },
+  {
+    "id": 612,
+    "name": "Spinnah",
+    "rating": "8.0"
+  },
+  {
+    "id": 613,
+    "name": "Spinnah (Holiday)",
+    "rating": "8.0"
+  },
+  {
+    "id": 614,
+    "name": "Stahn Aileron",
+    "rating": "6.5"
+  },
+  {
+    "id": 615,
+    "name": "Stan",
+    "rating": "4.5"
+  },
+  {
+    "id": 616,
+    "name": "Stan and Aliza",
+    "rating": "9.0"
+  },
+  {
+    "id": 617,
+    "name": "Stan (Event)",
+    "rating": "6.5"
+  },
+  {
+    "id": 618,
+    "name": "Sturm",
+    "rating": "9.5"
+  },
+  {
+    "id": 619,
+    "name": "Sturm (Grand)",
+    "rating": "9.5"
+  },
+  {
+    "id": 620,
+    "name": "Suframare",
+    "rating": "5.0"
+  },
+  {
+    "id": 621,
+    "name": "Suframare (Summer)",
+    "rating": "7.0"
+  },
+  {
+    "id": 622,
+    "name": "Sutera",
+    "rating": "7.5"
+  },
+  {
+    "id": 623,
+    "name": "Sutera (Event)",
+    "rating": "7.0"
+  },
+  {
+    "id": 624,
+    "name": "Sutera (Fire)",
+    "rating": "8.0"
+  },
+  {
+    "id": 625,
+    "name": "Sutera (SSR)",
+    "rating": "9.5"
+  },
+  {
+    "id": 626,
+    "name": "Suzaku Kururugi",
+    "rating": "8.5"
+  },
+  {
+    "id": 627,
+    "name": "Sylph",
+    "rating": "9.4"
+  },
+  {
+    "id": 628,
+    "name": "Syr (Event)",
+    "rating": "6.0"
+  },
+  {
+    "id": 629,
+    "name": "Tabina",
+    "rating": "9.4"
+  },
+  {
+    "id": 630,
+    "name": "Tabina (Summer)",
+    "rating": "9.5"
+  },
+  {
+    "id": 631,
+    "name": "Tanjiro, Nezuko, Zenitsu, and Inosuke",
+    "rating": "9.3"
+  },
+  {
+    "id": 632,
+    "name": "Tanya",
+    "rating": "4.5"
+  },
+  {
+    "id": 633,
+    "name": "Tanya (SR)",
+    "rating": "7.0"
+  },
+  {
+    "id": 634,
+    "name": "Tanya (SSR)",
+    "rating": "9.5"
+  },
+  {
+    "id": 635,
+    "name": "Tanya (Summer)",
+    "rating": "7.0"
+  },
+  {
+    "id": 636,
+    "name": "Tear Grants",
+    "rating": "7.5"
+  },
+  {
+    "id": 637,
+    "name": "Teena",
+    "rating": "7.0"
+  },
+  {
+    "id": 638,
+    "name": "Teena (Summer)",
+    "rating": "9.4"
+  },
+  {
+    "id": 639,
+    "name": "Teena (Valentine)",
+    "rating": "7.0"
+  },
+  {
+    "id": 640,
+    "name": "Teru Tendo",
+    "rating": "6.0"
+  },
+  {
+    "id": 641,
+    "name": "Thelonim",
+    "rating": "5.5"
+  },
+  {
+    "id": 642,
+    "name": "The Lowain Bros",
+    "rating": "7.5"
+  },
+  {
+    "id": 643,
+    "name": "Therese",
+    "rating": "7.0"
+  },
+  {
+    "id": 644,
+    "name": "Therese (Event)",
+    "rating": "6.0"
+  },
+  {
+    "id": 645,
+    "name": "Therese (SSR)",
+    "rating": "9.2"
+  },
+  {
+    "id": 646,
+    "name": "Threo",
+    "rating": ""
+  },
+  {
+    "id": 647,
+    "name": "Tiamat",
+    "rating": "9.6"
+  },
+  {
+    "id": 648,
+    "name": "Tien",
+    "rating": ""
+  },
+  {
+    "id": 649,
+    "name": "Tikoh",
+    "rating": "9.5"
+  },
+  {
+    "id": 650,
+    "name": "Tōru Amuro",
+    "rating": "7.0"
+  },
+  {
+    "id": 651,
+    "name": "Troue",
+    "rating": "9.3"
+  },
+  {
+    "id": 652,
+    "name": "Tsubasa",
+    "rating": "9.2"
+  },
+  {
+    "id": 653,
+    "name": "Tsubasa Kashiwagi",
+    "rating": "7.0"
+  },
+  {
+    "id": 654,
+    "name": "Tweyen",
+    "rating": ""
+  },
+  {
+    "id": 655,
+    "name": "Tyre",
+    "rating": "7.0"
+  },
+  {
+    "id": 656,
+    "name": "Tyre (Yukata)",
+    "rating": "7.5"
+  },
+  {
+    "id": 657,
+    "name": "Ulamnuran",
+    "rating": "7.0"
+  },
+  {
+    "id": 658,
+    "name": "Uzuki Shimamura",
+    "rating": "7.0"
+  },
+  {
+    "id": 659,
+    "name": "Vajra",
+    "rating": "10"
+  },
+  {
+    "id": 660,
+    "name": "Vane",
+    "rating": "6.5"
+  },
+  {
+    "id": 661,
+    "name": "Vane (Event)",
+    "rating": "6.5"
+  },
+  {
+    "id": 662,
+    "name": "Vane (Halloween)",
+    "rating": "9.7"
+  },
+  {
+    "id": 663,
+    "name": "Vane (SSR)",
+    "rating": "9.6"
+  },
+  {
+    "id": 664,
+    "name": "Vania",
+    "rating": "9.3"
+  },
+  {
+    "id": 665,
+    "name": "Vania and Malinda",
+    "rating": "9.3"
+  },
+  {
+    "id": 666,
+    "name": "Vania (SR)",
+    "rating": "8.0"
+  },
+  {
+    "id": 667,
+    "name": "Vanzza",
+    "rating": "4.5"
+  },
+  {
+    "id": 668,
+    "name": "Vanzza (SR)",
+    "rating": "7.0"
+  },
+  {
+    "id": 669,
+    "name": "Vaseraga",
+    "rating": "9.5"
+  },
+  {
+    "id": 670,
+    "name": "Vaseraga (Earth)",
+    "rating": "9.0"
+  },
+  {
+    "id": 671,
+    "name": "Vaseraga (Fire)",
+    "rating": "9.4"
+  },
+  {
+    "id": 672,
+    "name": "Veight",
+    "rating": "9.5"
+  },
+  {
+    "id": 673,
+    "name": "Vermeil",
+    "rating": "5.5"
+  },
+  {
+    "id": 674,
+    "name": "Vermeil (SR)",
+    "rating": "8.0"
+  },
+  {
+    "id": 675,
+    "name": "Viceroy",
+    "rating": "4.5"
+  },
+  {
+    "id": 676,
+    "name": "Vikala",
+    "rating": "9.6"
+  },
+  {
+    "id": 677,
+    "name": "Vikala (Event)",
+    "rating": "9.0"
+  },
+  {
+    "id": 678,
+    "name": "Vira",
+    "rating": "6.0"
+  },
+  {
+    "id": 679,
+    "name": "Vira (Grand)",
+    "rating": "9.8"
+  },
+  {
+    "id": 680,
+    "name": "Vira (Promo)",
+    "rating": "9.1"
+  },
+  {
+    "id": 681,
+    "name": "Vira (SSR)",
+    "rating": "9.2"
+  },
+  {
+    "id": 682,
+    "name": "Vira (Summer)",
+    "rating": "9.5"
+  },
+  {
+    "id": 683,
+    "name": "Vira (Valentine)",
+    "rating": "9.5"
+  },
+  {
+    "id": 684,
+    "name": "Vira (Wind)",
+    "rating": "9.2"
+  },
+  {
+    "id": 685,
+    "name": "Volenna",
+    "rating": "5.0"
+  },
+  {
+    "id": 686,
+    "name": "Volenna (Event)",
+    "rating": "5.5"
+  },
+  {
+    "id": 687,
+    "name": "Walder",
+    "rating": "4.0"
+  },
+  {
+    "id": 688,
+    "name": "Walder (Event)",
+    "rating": "8.5"
+  },
+  {
+    "id": 689,
+    "name": "Walder (Holiday)",
+    "rating": "4.0"
+  },
+  {
+    "id": 690,
+    "name": "Walder (Summer)",
+    "rating": "4.0"
+  },
+  {
+    "id": 691,
+    "name": "Will",
+    "rating": "4.0"
+  },
+  {
+    "id": 692,
+    "name": "Will (SR)",
+    "rating": "8.0"
+  },
+  {
+    "id": 693,
+    "name": "Wilnas",
+    "rating": "9.5"
+  },
+  {
+    "id": 694,
+    "name": "Wulf and Renie",
+    "rating": "9.5"
+  },
+  {
+    "id": 695,
+    "name": "Wulf and Renie (Halloween)",
+    "rating": "8.0"
+  },
+  {
+    "id": 696,
+    "name": "Yaia",
+    "rating": "8.5"
+  },
+  {
+    "id": 697,
+    "name": "Yaia (Holiday)",
+    "rating": "8.5"
+  },
+  {
+    "id": 698,
+    "name": "Yamanbagiri Kunihiro",
+    "rating": "6.5"
+  },
+  {
+    "id": 699,
+    "name": "Yggdrasil",
+    "rating": "9.3"
+  },
+  {
+    "id": 700,
+    "name": "Yggdrasil (Wind)",
+    "rating": "9.2"
+  },
+  {
+    "id": 701,
+    "name": "Yngwie",
+    "rating": "9.2"
+  },
+  {
+    "id": 702,
+    "name": "Yngwie (Yukata)",
+    "rating": "9.3"
+  },
+  {
+    "id": 703,
+    "name": "Yodarha",
+    "rating": "4.0"
+  },
+  {
+    "id": 704,
+    "name": "Yodarha (SSR)",
+    "rating": "9.4"
+  },
+  {
+    "id": 705,
+    "name": "Yodarha (Wind)",
+    "rating": "9.5"
+  },
+  {
+    "id": 706,
+    "name": "Yorozuya",
+    "rating": "9.2"
+  },
+  {
+    "id": 707,
+    "name": "You",
+    "rating": "9.6"
+  },
+  {
+    "id": 708,
+    "name": "You (Event)",
+    "rating": "8.0"
+  },
+  {
+    "id": 709,
+    "name": "Young Cat (Event)",
+    "rating": "6.5"
+  },
+  {
+    "id": 710,
+    "name": "Yuel",
+    "rating": "9.3"
+  },
+  {
+    "id": 711,
+    "name": "Yuel (Event)",
+    "rating": "7.0"
+  },
+  {
+    "id": 712,
+    "name": "Yuel (Summer)",
+    "rating": "9.0"
+  },
+  {
+    "id": 713,
+    "name": "Yuel (Water)",
+    "rating": "9.1"
+  },
+  {
+    "id": 714,
+    "name": "Yuisis",
+    "rating": "8.5"
+  },
+  {
+    "id": 715,
+    "name": "Yuisis (Fire)",
+    "rating": "9.4"
+  },
+  {
+    "id": 716,
+    "name": "Yuisis (Yukata)",
+    "rating": "7.5"
+  },
+  {
+    "id": 717,
+    "name": "Yuni",
+    "rating": "9.6"
+  },
+  {
+    "id": 718,
+    "name": "Yuri Lowell",
+    "rating": "6.5"
+  },
+  {
+    "id": 719,
+    "name": "Yurius",
+    "rating": "9.6"
+  },
+  {
+    "id": 720,
+    "name": "Zahlhamelina",
+    "rating": "9.0"
+  },
+  {
+    "id": 721,
+    "name": "Zahlhamelina (Yukata)",
+    "rating": "9.7"
+  },
+  {
+    "id": 722,
+    "name": "Zaja",
+    "rating": "7.5"
+  },
+  {
+    "id": 723,
+    "name": "Zaja (Halloween)",
+    "rating": "7.0"
+  },
+  {
+    "id": 724,
+    "name": "Zehek",
+    "rating": "4.5"
+  },
+  {
+    "id": 725,
+    "name": "Zehek (Event)",
+    "rating": "6.5"
+  },
+  {
+    "id": 726,
+    "name": "Zehek (SSR)",
+    "rating": "9.4"
+  },
+  {
+    "id": 727,
+    "name": "Zeta",
+    "rating": "9.5"
+  },
+  {
+    "id": 728,
+    "name": "Zeta and Vaseraga (Halloween)",
+    "rating": "9.5"
+  },
+  {
+    "id": 729,
+    "name": "Zeta (Dark)",
+    "rating": "8.5"
+  },
+  {
+    "id": 730,
+    "name": "Zeta (Event)",
+    "rating": "8.0"
+  },
+  {
+    "id": 731,
+    "name": "Zeta (Summer)",
+    "rating": "9.6"
+  },
+  {
+    "id": 732,
+    "name": "Zeta (Water)",
+    "rating": "9.8"
+  },
+  {
+    "id": 733,
+    "name": "Zooey",
+    "rating": "9.3"
+  },
+  {
+    "id": 734,
+    "name": "Zooey (Event)",
+    "rating": "7.0"
+  },
+  {
+    "id": 735,
+    "name": "Zooey (Grand)",
+    "rating": "9.8"
+  },
+  {
+    "id": 736,
+    "name": "Zooey (Promo)",
+    "rating": "8.5"
+  },
+  {
+    "id": 737,
+    "name": "Μ's First-Years",
+    "rating": "9.0"
+  },
+  {
+    "id": 738,
+    "name": "Μ's Second-Years",
+    "rating": "9.0"
+  },
+  {
+    "id": 739,
+    "name": "Μ's Third-Years",
+    "rating": "9.1"
+  }
+]
