@@ -1,4 +1,4 @@
-# Title: Granblue Character Scraper
+# Title: Granblue Character Ratings API and Scraper
 
 ![badge](https://img.shields.io/badge/license-MIT-darkred) [![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -7,6 +7,15 @@
 ## Description:
 
 This is a WIP, at the moment it scrapes character names and ratings into a JSON object, the data is scraped from here: https://gbf.wiki/Character_Tier_List/Gamewith/Ratings -- A big thanks to the wiki contributers for keeping great up to date data. Currently you can access this in API form here: https://granblue-rating-api.herokuapp.com/characters - If you need to regenerate or update the JSON, clone this and uncomment the scraper portion to regnerate the file.
+
+RapidAPI Link: https://rapidapi.com/daelso/api/granblue-fantasy-tier-list
+
+## End Points:
+https://granblue-rating-api.herokuapp.com/characters - Get all characters and ratings
+
+
+https://granblue-rating-api.herokuapp.com/characters/Zeta - Will return all entries for a specific character, first letter capitalization does not matter, will automatically be converted i.e zeta => Zeta
+
 
 ## Sample Data
 {
