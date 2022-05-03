@@ -7,7 +7,6 @@ const cheerio = require("cheerio");
 const express = require("express");
 const fs = require("fs");
 
-
 const scrapedURL = "https://gbf.wiki/Character_Tier_List/Gamewith/Ratings";
 
 const app = express();
@@ -28,7 +27,6 @@ app.get("/scrape", (req, res) => {
         "table.wikitable:nth-child(17) > tbody:nth-child(1) > tr:not(:first-child)",
         html
       ).each(function () {
-
         const rating = package(this).find("td:nth-child(4)").text();
         const imgTitle = package(this).find("a").attr("title");
 
@@ -40,12 +38,11 @@ app.get("/scrape", (req, res) => {
         };
 
         characterarray.push(characters);
-
       });
 
-      let JSONarray = JSON.stringify( {character:characterarray} , null, 2);
+      let JSONarray = JSON.stringify({ character: characterarray }, null, 2);
 
-      res.json({character:characterarray}) //returns it in the browser
+      res.json({ character: characterarray }); //returns it in the browser
 
       //Populates the file for us
       fs.writeFile("db.json", JSONarray, function (err, result) {
@@ -53,7 +50,7 @@ app.get("/scrape", (req, res) => {
           console.log(err);
         }
       });
-
+      res.status(200);
     } catch (err) {
       console.log(err);
     }
@@ -61,36 +58,32 @@ app.get("/scrape", (req, res) => {
 });
 
 app.get("/characters", (req, res) => {
-  const dbData = require('./db.json') //By keeping this local, scrape can still run on an empty json file without erroring out about the JSON
-    try {
-      res.json(dbData)
-
-    } catch (err) {
-      console.log(err);
-    }
-  });
-;
-
-app.get("/characters/:selection", (req, res) => {
-        const dbData = require('./db.json')
-        const hero = req.params.selection
-        const options = dbData.character
-      
-      const test = (text) => options.filter(({ name }) => name.includes(text));
-      
-      const result = test(hero[0].toUpperCase() + hero.substring(1));
-      
-
-        if(result.length < 1){
-          res.json(`No results found for ${hero} - CASE SENSITIVE`)
-        }
-        else{
-          res.json(result)
-        }
-    
+  const dbData = require("./db.json"); //By keeping this local, scrape can still run on an empty json file without erroring out about the JSON
+  try {
+    res.json(dbData);
+    res.status(200);
+  } catch (err) {
+    console.log(err);
+  }
 });
- 
+app.get("/characters/:selection", (req, res) => {
+  const dbData = require("./db.json"); //By keeping this local, scrape can still run on an empty json file without erroring out about the JSON
+  const hero = req.params.selection;
+  const options = dbData.character;
+  try {
+    const test = (text) => options.filter(({ name }) => name.includes(text));
 
+    const result = test(hero[0].toUpperCase() + hero.substring(1));
+
+    if (result.length < 1) {
+      res.json(`No results found for ${hero} - CASE SENSITIVE`);
+    } else {
+      res.json(result);
+    }
+    res.status(200);
+  } catch (err) {
+    console.log(err);
+  }
+});
 
 app.listen(port, () => console.log(`server running on PORT ${port}`));
-
