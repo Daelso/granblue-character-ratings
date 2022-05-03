@@ -6,6 +6,7 @@ const axios = require("axios");
 const cheerio = require("cheerio");
 const express = require("express");
 const fs = require("fs");
+const dbData = require('./db.json')
 
 const scrapedURL = "https://gbf.wiki/Character_Tier_List/Gamewith/Ratings";
 
@@ -60,13 +61,8 @@ app.get("/characters", (req, res) => {
 });
 
 app.get("/characters/:selection", (req, res) => {
-  axios.get('https://granblue-rating-api.herokuapp.com/characters')
-    .then((response) => {
         const hero = req.params.selection
-        const characters = response.data
-        // const search = characters.character.find(character => character.name == hero);
-
-        const options = characters.character
+        const options = dbData.character
       
       const test = (text) => options.filter(({ name }) => name.includes(text));
       
@@ -79,7 +75,7 @@ app.get("/characters/:selection", (req, res) => {
         else{
           res.json(result)
         }
-    })
+    
 });
  
 
