@@ -3,6 +3,16 @@
 ![badge](https://img.shields.io/badge/license-MIT-darkred) [![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
+## Table of Contents
+- [Description](#description)
+- [End Points](#End_Points)
+- [Sample Data](#Sample_Data)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Questions](#questions)
+
 
 ## Description:
 
@@ -11,6 +21,8 @@ This is a WIP, at the moment it scrapes character names and ratings into a JSON 
 RapidAPI Link: https://rapidapi.com/daelso/api/granblue-fantasy-tier-list
 
 ## End Points:
+https://granblue-rating-api.herokuapp.com/scrape - This populates and updates our JSON file on command or once a day if left alone.
+
 https://granblue-rating-api.herokuapp.com/characters - Get all characters and ratings
 
 
@@ -36,13 +48,6 @@ https://granblue-rating-api.herokuapp.com/characters/Zeta - Will return all entr
   Full data can be found the JSON file. 
 
 
-## Table of Contents
-- [Description](#description)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Questions](#questions)
 
 ## Installation Instructions:
 
