@@ -46,7 +46,7 @@ https://granblue-rating-api.herokuapp.com/characters/Zeta - Will return all entr
       "name": "Agielba",
       "rating": "8.5"
     },
-    ```
+ ```
   Full data can be found the JSON file. 
 
 
