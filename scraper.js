@@ -6,7 +6,7 @@ const axios = require("axios");
 const cheerio = require("cheerio");
 const express = require("express");
 const fs = require("fs");
-const dbData = require('./db.json')
+
 
 const scrapedURL = "https://gbf.wiki/Character_Tier_List/Gamewith/Ratings";
 
@@ -16,7 +16,7 @@ app.get("/", (req, res) => {
   res.json("Welcome to my Granblue Character Tier API");
 });
 
-app.get("/characters", (req, res) => {
+app.get("/scrape", (req, res) => {
   axios.get(scrapedURL).then((response) => {
     try {
       const html = response.data;
@@ -60,7 +60,19 @@ app.get("/characters", (req, res) => {
   });
 });
 
+app.get("/characters", (req, res) => {
+  const dbData = require('./db.json') //By keeping this local, scrape can still run on an empty json file without erroring out about the JSON
+    try {
+      res.json(dbData)
+
+    } catch (err) {
+      console.log(err);
+    }
+  });
+;
+
 app.get("/characters/:selection", (req, res) => {
+        const dbData = require('./db.json')
         const hero = req.params.selection
         const options = dbData.character
       
