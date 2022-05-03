@@ -5,8 +5,8 @@
 
 ## Table of Contents
 - [Description](#description)
-- [End Points](#End_Points)
-- [Sample Data](#Sample_Data)
+- [End Points](#End-Points)
+- [Sample Data](#Sample-Data)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
