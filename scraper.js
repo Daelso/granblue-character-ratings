@@ -1,7 +1,10 @@
 const port = process.env.PORT || 3000;
 
-const jsonPort = process.env.jsonPort || 8000;
-
+const { ToadScheduler, SimpleIntervalJob, Task } = require('toad-scheduler')
+const scheduler = new ToadScheduler()
+const task = new Task('simple task', () => { dailyScrape() })
+const job = new SimpleIntervalJob({ hours: 20, }, task)
+scheduler.addSimpleIntervalJob(job)
 const axios = require("axios");
 const cheerio = require("cheerio");
 const express = require("express");
@@ -10,6 +13,11 @@ const fs = require("fs");
 const scrapedURL = "https://gbf.wiki/Character_Tier_List/Gamewith/Ratings";
 
 const app = express();
+
+function dailyScrape(){
+  axios.get('https://granblue-rating-api.herokuapp.com/scrape')
+  console.log('scrape complete')
+}
 
 app.get("/", (req, res) => {
   res.json("Welcome to my Granblue Character Tier API");
