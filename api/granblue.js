@@ -3,7 +3,6 @@ const cheerio = require("cheerio");
 const fs = require("fs");
 
 const express = require("express");
-const app = express();
 let router = express.Router();
 
 //Route base/youtube
