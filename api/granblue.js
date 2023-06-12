@@ -27,12 +27,14 @@ router.route("/scrape").get((req, res) => {
       ).each(function () {
         const rating = Number(package(this).find("td:nth-child(4)").text());
         const imgTitle = package(this).find("a").attr("title");
+        const role = package(this).find("li:nth-child(1)").text();
 
         id += 1;
         characters = {
           id: id,
           name: imgTitle,
           rating: rating,
+          role: role,
         };
 
         characterarray.push(characters);
